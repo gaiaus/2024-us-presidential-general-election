@@ -17,7 +17,7 @@ The total amount spent on top five recipients is $634,765,764.79.
 | BULLY PULPIT INTERACTIVE LLC                                                     | 101,216,586.94          |                        68 |         |
 | DUPONT CIRCLE STRATEGIES LLC                                                     | 94,558,843.33           |                        93 |         |
 | CONEXION INC                                                                     | 35,343,900.49           |                        37 |         |
-| GUSTO                                                                            | 34,442,852.93           |                       442 | Op Expenditures        |
+| GUSTO                                                                            | 34,442,852.93           |                       442 | Op Expenditures, likely payroll        |
 | TRUXTON CREATIVE LLC                                                             | 28,851,189.18           |                        33 |         |
 | ACTBLUE TECHNICAL SERVICES                                                       | 17,042,764.17           |                       105 |         |
 | DNC TRAVEL ESCROW                                                                | 14,364,073.38           |                       300 |         |
