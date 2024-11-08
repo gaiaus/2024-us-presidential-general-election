@@ -5,7 +5,7 @@ Registration date: April 25, 2019
 
 Source: [FEC](https://www.fec.gov/data/committee/C00703975/?cycle=2024)
 
-## TOP 500 Disbursement Recipients 
+## 2024, TOP 500 Disbursement Recipients 
 
 | recipient_name                                                                   | total_amount_received   |   number_of_disbursements | notes   |
 |:---------------------------------------------------------------------------------|:------------------------|--------------------------:|:--------|
