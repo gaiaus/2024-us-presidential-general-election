@@ -3,8 +3,8 @@
 | recipient_name                          | total_amount_received | number_of_disbursements | spending_categories       | Notes |
 |:----------------------------------------|-----------------------:|------------------------:|:-------------------------|:------|
 | MEDIA BUYING & ANALYTICS LLC            |             281,309,300 |                       44 | ADVERTISING            |       |
-| GAMBIT STRATEGIES LLC                   |             122,337,200 |                       55 | ADVERTISING            |       |
-| BULLY PULPIT INTERACTIVE LLC            |             101,216,600 |                       68 | ADVERTISING            | **Website**:[bullypulpitinteractive.com](https://www.bullypulpitinteractive.com/) **Founder**: Andrew Bleeker Location: Washington, D.C.| 
+| GAMBIT STRATEGIES LLC                   |             122,337,200 |                       55 | ADVERTISING            | Business Objective: Political consulting firm offering strategic advice and campaign management services.[gambitstrategies.com](gambitstrategies.com) **Founder** Principal: Michael Vachon |
+| BULLY PULPIT INTERACTIVE LLC            |             101,216,600 |                       68 | ADVERTISING            | [bullypulpitinteractive.com](https://www.bullypulpitinteractive.com/) **Founder**: Andrew Bleeker Location: Washington, D.C.| 
 | DUPONT CIRCLE STRATEGIES LLC            |              94,558,840 |                       93 | ADVERTISING, OTHER     |       |
 | CONEXION INC                            |              35,343,900 |                       37 | ADVERTISING            |       |
 | GUSTO                                   |              34,442,900 |                      442 | MATERIALS, OTHER       |       |
