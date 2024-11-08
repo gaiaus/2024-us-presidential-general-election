@@ -8,6 +8,8 @@ Source: [FEC](https://www.fec.gov/data/committee/C00703975/?cycle=2024)
 ## 2024, TOP 500 Disbursement Recipients 
 $880,268,087.77 spent in total disbursements by this candidate's authorized committees from January 01, 2023 to October 16, 2024
 
+The total amount spent on top five recipients is $634,765,764.79.
+
 | recipient_name                                                                   | total_amount_received   |   number_of_disbursements | notes   |
 |:---------------------------------------------------------------------------------|:------------------------|--------------------------:|:--------|
 | MEDIA BUYING & ANALYTICS LLC                                                     | 281,309,258.93          |                        44 |         |
@@ -15,7 +17,7 @@ $880,268,087.77 spent in total disbursements by this candidate's authorized comm
 | BULLY PULPIT INTERACTIVE LLC                                                     | 101,216,586.94          |                        68 |         |
 | DUPONT CIRCLE STRATEGIES LLC                                                     | 94,558,843.33           |                        93 |         |
 | CONEXION INC                                                                     | 35,343,900.49           |                        37 |         |
-| GUSTO                                                                            | 34,442,852.93           |                       442 |         |
+| GUSTO                                                                            | 34,442,852.93           |                       442 | Op Expenditures        |
 | TRUXTON CREATIVE LLC                                                             | 28,851,189.18           |                        33 |         |
 | ACTBLUE TECHNICAL SERVICES                                                       | 17,042,764.17           |                       105 |         |
 | DNC TRAVEL ESCROW                                                                | 14,364,073.38           |                       300 |         |
@@ -35,7 +37,7 @@ $880,268,087.77 spent in total disbursements by this candidate's authorized comm
 | POTOMAC WAVES LLC                                                                | 2,855,252.31            |                        20 |         |
 | MAJIC PRODUCTIONS                                                                | 2,413,953.26            |                        19 |         |
 | BNY PRODUCTION, LLC                                                              | 2,400,466.53            |                        14 |         |
-| COVINGTON & BURLING LLP                                                          | 2,207,654.50            |                        22 |         |
+| COVINGTON & BURLING LLP                                                          | 2,207,654.50            |                        22 | Legal Services        |
 | NATIONAL URBAN LEAGUE, INC.                                                      | 2,050,000.00            |                         1 |         |
 | VIVA CREATIVE                                                                    | 1,800,000.00            |                         5 |         |
 | HIGHMARK HEALTH CARE                                                             | 1,798,716.53            |                         8 |         |
@@ -48,7 +50,7 @@ $880,268,087.77 spent in total disbursements by this candidate's authorized comm
 | MINUTEMAN PRESS CHICAGO                                                          | 1,102,600.00            |                         3 |         |
 | SWITCHBOARD PUBLIC BENEFIT CORP                                                  | 1,068,703.14            |                         3 |         |
 | FOURTHWALL MEDIA INC                                                             | 1,000,000.02            |                         7 |         |
-| HARPO PRODUCTIONS INC                                                            | 1,000,000.00            |                         2 |         |
+| HARPO PRODUCTIONS INC                                                            | 1,000,000.00            |                         2 | Oprah Winfrey        |
 | GARNER PRINTING                                                                  | 980,040.21              |                       347 |         |
 | AL MEDIA LLC                                                                     | 964,268.25              |                         4 |         |
 | DELTA AIRLINES                                                                   | 946,175.55              |                      2237 |         |
