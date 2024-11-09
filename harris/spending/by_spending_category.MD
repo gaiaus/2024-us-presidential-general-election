@@ -18,7 +18,7 @@ If you’re interested in seeing a similar comparison of spending categories for
 
 ## Spending by Category
 
-| Spending Category                            | Total Possible Amount Disbursed    | Number of Disbursements |
+| Spending Category                            | Total Possible Amount Disbursed    | Number of Qualifying Disbursements |
 |-------------------------------------|---------------------------|--------------------------|
 | Media & Advertising                 | $696,358,000.00          | 1,970                    |
 | Technology & Software               | $264,822,000.00          | 5,488                    |
