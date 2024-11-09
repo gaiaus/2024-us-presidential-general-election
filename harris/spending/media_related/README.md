@@ -23,7 +23,7 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | September 2024 | $186,347,246.83 | 89 |
 | October 2024 (partial) | $98,721,298.02 | 73 |
 
-## Top 20 Recipients by Total Amount (with "MEDIA" in disbursement description)
+## Top 20 Recipients by Total Amount 
 | Recipient | Total Amount | Number of Disbursements |
 |-----------|--------------|------------------------|
 | MEDIA BUYING & ANALYTICS LLC | $186,543,632.22 | 31 |
