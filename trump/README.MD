@@ -1,9 +1,12 @@
 # DONALD J. TRUMP FOR PRESIDENT 2024, INC.
-Type: Presidential - Principal Campaign Committee 
+Type: Presidential - Principal Campaign 
 
-ID: C00828541 
+FEC Committee ID: C00828541 
 
+P.O. BOX 509
 ARLINGTON, VA 22216 
+
+Treasurer: BRADLEY T. CRATE
 
 Registration date: November 15, 2022
 
