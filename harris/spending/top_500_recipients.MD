@@ -8,7 +8,7 @@ Source: [FEC](https://www.fec.gov/data/committee/C00703975/?cycle=2024)
 ## 2024, TOP 500 Disbursement Recipients 
 $880,268,087.77 in total disbursements by this candidate's authorized committees from August to October 16, 2024
 
-The total amount spent on top five recipients is $634,765,764.79.
+The total amount spent on **top five disbursement recipients** is $634,765,764.79.
 
 **Media Buy & Production**: $440,063,191.93
 
