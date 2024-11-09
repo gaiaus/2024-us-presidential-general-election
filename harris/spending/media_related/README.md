@@ -69,7 +69,7 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | MEDIA CONSULTING | $1,275,544.00 | 0.23% | $28,345.42 |
 | **GRAND TOTAL** | **$559,768,573.00** | **100%** |   |
 
-## Geographic Distribution (Top 10 States)
+## Geographic Distribution (Top 10 States) Based on Location of Disbursement Recipient
 | State | Total Amount | % of Total | Number of Vendors |
 |-------|--------------|------------|------------------|
 | DC | $389,567,892.00 | 69.59% | 15 |
