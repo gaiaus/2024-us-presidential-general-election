@@ -14,6 +14,8 @@ While some of these disbursements may include talent or appearance fees as part 
 
 # Event Production, Disbursements, Harris for President
 
+All entries below are disbursements that include "EVENT_PRODUCTION" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
+
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |---------|-----------|--------|-------------|-------------------|---------|
 | HARRIS FOR PRESIDENT | PMI ENTERTAINMENT GROUP, INC. | WI | EVENT PRODUCTION | 10/16/2024 | $27,000.00 |
