@@ -1,5 +1,9 @@
 # DONALD J. TRUMP FOR PRESIDENT 2024, INC.
-Presidential - Principal campaign committee ID: C00828541 
+Type: Presidential - Principal Campaign Committee 
+
+ID: C00828541 
+
+ARLINGTON, VA 22216 
 
 Registration date: November 15, 2022
 
@@ -58,3 +62,68 @@ $354,932,583.44 spent in total disbursements by this candidate's authorized comm
 - **Ending cash on hand:** $3,020,902.11  
 - **Debts/loans owed to committee:** $0.00  
 - **Debts/loans owed by committee:** $89,447.37  
+
+
+# DONALD J. TRUMP REPUBLICAN NOMINEE FUND 2024
+
+Type: Presidential - Authorized by a Candidate 
+
+ID: C00867275 
+
+Registration date: January 26, 2024
+
+*Terminated*
+
+### Financial Summary
+
+**Coverage dates:** 01/01/2024 to 08/08/2024
+
+**Total Receipts:** $29,133.95  
+- **Total contributions:** $0.00  
+  - **Total individual contributions:** $0.00  
+    - **Itemized individual contributions:** $0.00  
+    - **Unitemized individual contributions:** $0.00  
+  - **Party committee contributions:** $0.00  
+  - **Other committee contributions:** $0.00  
+  - **Presidential public funds:** $0.00  
+  - **Candidate contributions:** $0.00  
+- **Transfers from other authorized committees:** $29,133.95  
+- **Total loans received:** $0.00  
+  - **Loans made by candidate:** $0.00  
+  - **Other loans:** $0.00  
+- **Total offsets to expenditures:** $0.00  
+  - **Offsets to operating expenditures:** $0.00  
+  - **Fundraising offsets:** $0.00  
+  - **Legal and accounting offsets:** $0.00  
+- **Other receipts:** $0.00  
+
+
+---
+
+### Total Spent
+**Coverage dates:** 01/01/2024 to 08/08/2024
+
+- **Total disbursements:** $29,133.95  
+  - **Operating expenditures:** $0.00  
+  - **Transfers to other authorized committees:** $29,133.95 (DONALD J. TRUMP FOR PRESIDENT 2024, INC.) 
+  - **Fundraising:** $0.00  
+  - **Exempt legal and accounting:** $0.00  
+  - **Total loan repayments made:** $0.00  
+    - **Candidate loan repayments:** $0.00  
+    - **Other loan repayments:** $0.00  
+  - **Total contribution refunds:** $0.00  
+    - **Individual refunds:** $0.00  
+    - **Political party refunds:** $0.00  
+    - **Other committee refunds:** $0.00  
+  - **Other disbursements:** $0.00  
+
+
+---
+
+### Cash Summary
+**Coverage dates:** 01/01/2024 to 08/08/2024  
+
+- **Beginning cash on hand:** $0.00  
+- **Ending cash on hand:** $0.00  
+- **Debts/loans owed to committee:** $0.00  
+- **Debts/loans owed by committee:** $0.00  
