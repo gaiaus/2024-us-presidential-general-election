@@ -1,4 +1,4 @@
-# Harris for President
+# HARRIS FOR PRESIDENT
 Type: Presidential - Principal Campaign 
 
 FEC Committee ID: C00703975
