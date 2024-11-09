@@ -1,7 +1,7 @@
 # Harris for President
-Type: Presidential - Principal Campaign Committee 
+Type: Presidential - Principal Campaign 
 
-ID: C00703975
+FEC Committee ID: C00703975
 
 Registration date: April 25, 2019
 
