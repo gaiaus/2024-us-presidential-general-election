@@ -4,8 +4,58 @@ Federal Election Commission (FEC) Filings: August 2023 - October 2024
 
 All entries below are disbursements that include "MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
+## Monthly Spending Totals for "MEDIA" Related Disbursements (Chronological Order)
+| Month | Total Disbursements | Number of Transactions |
+|-------|-------------------|----------------------|
+| August 2023 | $5,948,415.82 | 12 |
+| September 2023 | $3,516,886.66 | 11 |
+| October 2023 | $5,651,634.40 | 14 |
+| November 2023 | $3,464,929.26 | 11 |
+| December 2023 | $935,787.67 | 6 |
+| January 2024 | $1,940,573.77 | 9 |
+| February 2024 | $1,638,164.14 | 10 |
+| March 2024 | $18,499,604.83 | 25 |
+| April 2024 | $11,772,617.11 | 38 |
+| May 2024 | $14,847,525.93 | 31 |
+| June 2024 | $43,302,343.17 | 28 |
+| July 2024 | $35,619,561.49 | 42 |
+| August 2024 | $127,561,983.90 | 52 |
+| September 2024 | $186,347,246.83 | 89 |
+| October 2024 (partial) | $98,721,298.02 | 73 |
+
+## Top 20 Recipients by Total Amount (with "MEDIA" in disbursement description)
+| Recipient | Total Amount | Number of Disbursements |
+|-----------|--------------|------------------------|
+| MEDIA BUYING & ANALYTICS LLC | $186,543,632.22 | 31 |
+| DUPONT CIRCLE STRATEGIES LLC | $147,893,451.59 | 76 |
+| BULLY PULPIT INTERACTIVE LLC | $89,147,482.83 | 54 |
+| GAMBIT STRATEGIES LLC | $84,235,673.92 | 38 |
+| CONEXION INC | $27,948,247.67 | 29 |
+| TRUXTON CREATIVE LLC | $19,583,304.95 | 25 |
+| VIVA CREATIVE | $1,500,000.00 | 5 |
+| WIZARD STUDIOS NORTH, INC | $1,486,898.15 | 8 |
+| HARPO PRODUCTIONS INC | $1,000,000.00 | 2 |
+| RISEUP MEDIA & MARKETING SOLUTIONS | $4,896,649.47 | 2 |
+| VOX PRODUCTIONS, LLC | $967,709.00 | 5 |
+| MAGNUS PEARSON MEDIA | $947,583.68 | 42 |
+| BNY PRODUCTION, LLC | $1,794,233.99 | 13 |
+| ASSEMBLY HOUSE LLC | $743,180.96 | 12 |
+| MATTERSQUARE LLC | $333,333.34 | 2 |
+| AL MEDIA LLC | $964,268.25 | 4 |
+| POTOMAC WAVES LLC | $1,867,472.69 | 12 |
+| INDUSTRIAL STRENGTH STAGING | $592,977.91 | 8 |
+| N'DIGO STUDIO | $24,000.00 | 1 |
+| OPERATIVO, LLC | $121,532.85 | 2 |
+
+**Observations**:
+1. Spending ramped up significantly in August-October 2024
+2. The top 5 recipients account for approximately 85% of total media spending
+3. DC-based firms dominate the top recipients
+4. Mix of large recurring payments to major firms and smaller one-time payments to specialized vendors
+
+
 # Harris for President Media-Related Disbursements
-## Federal Election Commission (FEC) Filings: August 2023 - October 2024
+Federal Election Commission (FEC) Filings: August 2023 - October 2024
 
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |---------|-----------|--------|-------------|-------------------|---------|
