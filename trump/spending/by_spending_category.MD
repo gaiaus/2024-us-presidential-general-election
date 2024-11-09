@@ -6,6 +6,8 @@
 
 Source Data: [FEC](https://www.fec.gov/data/disbursements/?committee_id=C00828541&committee_id=C00867275&two_year_transaction_period=2024&data_type=processed)
 
+Coverage dates: 11/15/2022 to 10/16/2024
+
 | Spending Category          | Total Amount Disbursed | Number of Disbursements |
 |----------------------------|------------------------|--------------------------|
 | Media & Advertising        | $266,797,588.50       | 234                      |
