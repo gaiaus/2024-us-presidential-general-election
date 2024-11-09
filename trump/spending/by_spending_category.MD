@@ -4,6 +4,8 @@
 
 **Note**: *The spending categories were created to simplify the analysis of disbursements in the Trump campaign’s spending data. The original disbursement_description field contained highly specific and varied descriptions that lacked uniformity, which made it challenging to analyze spending trends effectively. For example, descriptions like “TRAVEL: AIR,” “EVENT STAGING,” and “MEDIA BUY” provided useful context but were inconsistent in phrasing and format. To address this, I grouped similar spending types under standardized categories, making it easier to identify spending patterns and report on key areas*.
 
+Source Data: [FEC](https://www.fec.gov/data/disbursements/?committee_id=C00828541&committee_id=C00867275&two_year_transaction_period=2024&data_type=processed)
+
 | Spending Category          | Total Amount Disbursed | Number of Disbursements |
 |----------------------------|------------------------|--------------------------|
 | Media & Advertising        | $266,797,588.50       | 234                      |
