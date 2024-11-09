@@ -91,7 +91,7 @@ All entries below are disbursements that include "MEDIA" in their description fi
 - Standard Deviation: $3,247,892.45
 - Minimum Disbursement: $250.00 (DREW HESKETT MEDIA LLC)
 - Maximum Disbursement: $43,256,722.21 (MEDIA BUYING & ANALYTICS LLC)
-- 
+
 ## Temporal Patterns
 - Average Daily Spend: $1,283,467.89
 - Highest Spending Day: September 16, 2024 ($43,256,722.21)
