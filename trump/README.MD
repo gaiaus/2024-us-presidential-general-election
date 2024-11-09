@@ -10,7 +10,33 @@ Treasurer: BRADLEY T. CRATE
 
 Registration date: November 15, 2022
 
-$354,932,583.44 spent in total disbursements by this candidate's authorized committees from January 01, 2023 to October 16, 2024.
+$354,932,583.44 spent in total disbursements by candidate's authorized committees from January 01, 2023 to October 16, 2024.
+
+### Financial Summary for Reporting Period
+
+**Covering Period:** 10/01/2024 Through 10/16/2024
+
+- **Cash on Hand at BEGINNING of the Reporting Period:** $119,676,444.12  
+- **Total Receipts This Period:** $16,227,642.28  
+- **Subtotal (Beginning Cash + Receipts):** $135,904,086.40  
+- **Total Disbursements This Period:** $99,689,404.21  
+- **Cash on Hand at CLOSE of the Reporting Period:** $36,214,682.19  
+
+---
+
+**Debts and Obligations:**
+- **Debts and Obligations Owed TO the Committee:** $2,864,905.96  
+  - *Itemize all on SCHEDULE C or SCHEDULE D*  
+- **Debts and Obligations Owed BY the Committee:** $10,445.91  
+  - *Itemize all on SCHEDULE C or SCHEDULE D*  
+
+---
+
+**Additional Information:**
+- **Expenditures Subject To Limitation:** $0.00  
+- **NET Contributions (Other than Loans):** $54,728,299.93  
+- **NET Operating Expenditures:** $340,862,592.67  
+
 
 ### DETAILED SUMMARY
 **Of Receipts And Disbursements**
