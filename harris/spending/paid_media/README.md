@@ -10,6 +10,7 @@ The following table shows disbursements (payments) made by Harris for President 
 
 A notable pattern in these expenditures is the campaign's investment in diverse media outlets, including several ethnic and community-focused media organizations (such as Asian American Journal, Philippine Times, Las Vegas Japan Times, and El Mundo Newspaper), suggesting a strategy to reach various demographic groups through their preferred media channels.
 
+# Paid Media, Disbursements, Harris for President
 
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |----------|-----------|--------|-------------|------------------|---------|
