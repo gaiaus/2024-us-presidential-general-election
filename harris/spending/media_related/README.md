@@ -4,7 +4,7 @@ Federal Election Commission (FEC) Filings: August 2023 - October 2024
 
 All entries below are disbursements that include "MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
-## Monthly Spending Totals for "MEDIA" Related Disbursements (Chronological Order)
+## Monthly Spending Totals for 'MEDIA' Related Disbursements (Chronological Order)
 | Month | Total Disbursements | Number of Transactions |
 |-------|-------------------|----------------------|
 | August 2023 | $5,948,415.82 | 12 |
@@ -24,7 +24,7 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | October 2024 (partial) | $98,721,298.02 | 73 |
 | **GRAND TOTAL** | **$559,768,573.00** |   |
 
-## Top 20 Recipients by Total Amount 
+## Top 20 'MEDIA' Related Spend Recipients by Total Amount 
 | Recipient | Total Amount | Number of Disbursements |
 |-----------|--------------|------------------------|
 | MEDIA BUYING & ANALYTICS LLC | $186,543,632.22 | 31 |
