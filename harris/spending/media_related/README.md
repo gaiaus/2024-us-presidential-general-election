@@ -22,6 +22,7 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | August 2024 | $127,561,983.90 | 52 |
 | September 2024 | $186,347,246.83 | 89 |
 | October 2024 (partial) | $98,721,298.02 | 73 |
+| **GRAND TOTAL** | **$559,768,573.00** |   |
 
 ## Top 20 Recipients by Total Amount 
 | Recipient | Total Amount | Number of Disbursements |
