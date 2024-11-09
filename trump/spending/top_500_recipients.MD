@@ -9,10 +9,6 @@ Source: [FEC](https://www.fec.gov/data/candidate/P80001571/?cycle=2024&election_
 
 $354,932,583.44 spent in total disbursements by this candidate's authorized committees from January 01, 2023 to October 16, 2024.
 
-**Media Buy & Production**: $440,063,191.93
-**Event Production**: $16,158,371.96
-**Media Production**: $6,323,754.01
-**Audio Visual Services**: $8,116,887.14
 
 | recipient                                   | total_amount_received | number_of_disbursements | disbursement_description | disbursement_date | notes |
 |:--------------------------------------------|-----------------------:|-------------------------:|:-------------------------|:------------------|:------|
