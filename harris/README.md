@@ -30,7 +30,7 @@ $880,268,087.77 in total disbursements filed with FEC.
   - **Legal and accounting offsets:** $0.00  
 - **Other receipts:** $1,477,058.31  
 
-> **Note:** [CSV FILE of Total Disbursements](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/source_data/HARRIS%20SPENDING%20master_schedule_b_2024_11_09.csv)
+> **Note:** [`CSV FILE of Total Disbursements`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/source_data/HARRIS%20SPENDING%20master_schedule_b_2024_11_09.csv)
 
 ---
 
@@ -51,7 +51,7 @@ $880,268,087.77 in total disbursements filed with FEC.
     - **Other committee refunds:** $0.00  
   - **Other disbursements:** $5,867,925.15  
 
-> **Note:** [CSV FILE of Total Disbursements](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/source_data/HARRIS%20SPENDING%20master%20schedule_b_2024_11_04.csv)
+> **Note:** [`CSV FILE of Total Disbursements`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/source_data/HARRIS%20SPENDING%20master%20schedule_b_2024_11_04.csv)
 
 ---
 
