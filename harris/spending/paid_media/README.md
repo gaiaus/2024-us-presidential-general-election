@@ -1,4 +1,14 @@
+In campaign finance, "paid media" refers to any form of advertising or media placement that a campaign pays for directly. This includes but is not limited to:
+- Television and radio advertisements
+- Digital advertising
+- Print media placements
+- Billboard advertising
+- Sponsored content
+- Direct mail campaigns
 
+The following table shows disbursements (payments) made by Harris for President that were specifically categorized as "paid media" in their Federal Election Commission (FEC) filings. These transactions represent different forms of paid advertising and media buys across various states, with recipients ranging from local radio stations and newspapers to billboard companies and broadcasting groups. The data spans from April to October 2024, with amounts varying from relatively small buys ($154.00) to larger media investments ($200,000.00).
+
+A notable pattern in these expenditures is the campaign's investment in diverse media outlets, including several ethnic and community-focused media organizations (such as Asian American Journal, Philippine Times, Las Vegas Japan Times, and El Mundo Newspaper), suggesting a strategy to reach various demographic groups through their preferred media channels.
 
 
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
