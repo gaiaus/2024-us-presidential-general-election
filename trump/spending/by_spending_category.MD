@@ -12,7 +12,7 @@ Source Data: [FEC](https://www.fec.gov/data/disbursements/?committee_id=C0082854
 
 Coverage dates: 11/15/2022 to 10/16/2024
 
-| Spending Category          | Total Amount Disbursed | Number of Disbursements |
+| Spending Category          | Total Possible Amount Disbursed | Number of Qualifying Disbursements |
 |----------------------------|------------------------|--------------------------|
 | Media & Advertising        | $266,797,588.50       | 234                      |
 | Travel & Transportation     | $39,046,085.68        | 20,499                   |
