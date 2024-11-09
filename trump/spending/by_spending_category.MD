@@ -4,6 +4,8 @@
 
 **Note**: *The spending categories were created to simplify the analysis of disbursements in the Trump campaign’s spending data. The original disbursement_description field contained highly specific and varied descriptions that lacked uniformity. To address this, I grouped similar spending types under standardized categories, making it easier to identify spending patterns in key areas*.
 
+If you’re interested in seeing a similar comparison of spending categories for the Trump campaign, look [here](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD).
+
 Source Data: [FEC](https://www.fec.gov/data/disbursements/?committee_id=C00828541&committee_id=C00867275&two_year_transaction_period=2024&data_type=processed)
 
 Coverage dates: 11/15/2022 to 10/16/2024
