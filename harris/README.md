@@ -11,6 +11,32 @@ PHILADELPHIA, PA 19102
 
 $880,268,087.77 in total disbursements filed with FEC.
 
+### Financial Summary for Reporting Period
+
+**Covering Period:** 10/01/2024 Through 10/16/2024
+
+- **Cash on Hand at BEGINNING of the Reporting Period:** $187,471,148.07  
+- **Total Receipts This Period:** $97,211,775.02  
+- **Subtotal (Beginning Cash + Receipts):** $284,682,923.09  
+- **Total Disbursements This Period:** $165,857,412.65  
+- **Cash on Hand at CLOSE of the Reporting Period:** $118,825,510.44  
+
+---
+
+**Debts and Obligations:**
+- **Debts and Obligations Owed TO the Committee:** $0.00  
+  - *Itemize all on SCHEDULE C or SCHEDULE D*  
+- **Debts and Obligations Owed BY the Committee:** $0.00  
+  - *Itemize all on SCHEDULE C or SCHEDULE D*  
+
+---
+
+**Additional Information:**
+- **Expenditures Subject To Limitation:** $0.00  
+- **NET Contributions (Other than Loans):** $495,091,386.89  
+- **NET Operating Expenditures:** $908,578,094.71  
+
+
 ### Financial Summary
 
 **Coverage dates:** 01/01/2023 to 10/16/2024
