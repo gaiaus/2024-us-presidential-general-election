@@ -6,6 +6,8 @@
 
 If you’re interested in seeing a similar comparison of spending categories for the Trump campaign, look [here](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD).
 
+*The methodology for estimating total possible disbursements across spending categories varies between the Trump and Harris campaigns, reflecting differences in the specificity of disbursement descriptions and the potential informational value of recipient names. This variation impacts the interpretability and granularity of expenditure classification across categories for each campaign*.
+
 Source Data: [FEC](https://www.fec.gov/data/disbursements/?committee_id=C00828541&committee_id=C00867275&two_year_transaction_period=2024&data_type=processed)
 
 Coverage dates: 11/15/2022 to 10/16/2024
