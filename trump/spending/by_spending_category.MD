@@ -56,6 +56,4 @@ updated_category_totals = corrected_trump_data.groupby('updated_category').agg(
 # Sort the results by total amount disbursed in descending order
 updated_category_totals = updated_category_totals.sort_values(by='total_amount_disbursed', ascending=False)
 
-# Display the table to the user
-tools.display_dataframe_to_user(name="Trump Campaign Spending by Updated Categories", dataframe=updated_category_totals)
 
