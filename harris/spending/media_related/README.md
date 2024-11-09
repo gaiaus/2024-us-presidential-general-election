@@ -69,19 +69,6 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | MEDIA CONSULTING | $1,275,544.00 | 0.23% | $28,345.42 |
 | **GRAND TOTAL** | **$559,768,573.00** | **100%** |   |
 
-## Top 10 Recipients Based on Location of Disbursement Recipient
-| State | Total Amount | % of Total | Number of Vendors |
-|-------|--------------|------------|------------------|
-| DC | $389,567,892.00 | 69.59% | 15 |
-| GA | $89,678,345.00 | 16.02% | 3 |
-| NY | $23,456,789.00 | 4.19% | 8 |
-| CA | $18,901,234.00 | 3.38% | 12 |
-| MD | $15,678,901.00 | 2.80% | 6 |
-| VA | $8,901,234.00 | 1.59% | 5 |
-| IL | $5,678,901.00 | 1.01% | 4 |
-| TX | $3,456,789.00 | 0.62% | 3 |
-| FL | $2,345,678.00 | 0.42% | 2 |
-| MA | $1,234,567.00 | 0.22% | 2 |
 
 ## Basic Statistics for All Disbursements
 - Total Number of Disbursements: 451
