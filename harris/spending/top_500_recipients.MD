@@ -3,7 +3,7 @@ Presidential - Principal campaign committee ID: C00703975
 
 Registration date: April 25, 2019
 
-Source: [FEC](https://www.fec.gov/data/committee/C00703975/?cycle=2024)
+Source Data: [FEC](https://www.fec.gov/data/committee/C00703975/?cycle=2024)
 
 $997,950,787.25 in total disbursements by candidate's authorized committees ("Harris for President", "Kamala Harris for the People") from August to October 16, 2024
 
