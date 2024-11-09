@@ -14,6 +14,8 @@ Also, please note that the descriptions in Harris for President campaign filings
 
 If you’re interested in seeing a similar comparison of spending categories for the Trump campaign, look [here](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/trump/spending/by_spending_category.MD).
 
+*The methodology for estimating total possible disbursements across spending categories varies between the Trump and Harris campaigns, reflecting differences in the specificity of disbursement descriptions and the potential informational value of recipient names. This variation impacts the interpretability and granularity of expenditure classification across categories for each campaign.*
+
 ## Spending by Category
 
 | Spending Category                            | Total Possible Amount Disbursed    | Number of Disbursements |
