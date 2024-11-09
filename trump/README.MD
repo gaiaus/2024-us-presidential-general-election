@@ -60,57 +60,57 @@ $354,932,583.44 spent in total disbursements by this candidate's authorized comm
 
 ### Financial Summary
 
-**Coverage dates:** 11/15/2022 to 12/31/2022
+**Coverage dates:** 01/01/2023 to 10/16/2024
 
-**Total Receipts:** $3,823,300.90  
-- **Total contributions:** $5,520.24  
-  - **Total individual contributions:** $5,520.24  
-    - **Itemized individual contributions:** $4,750.00  
-    - **Unitemized individual contributions:** $770.00  
+**Total Receipts:** $388,097,229.57  
+- **Total contributions:** $54,791,508.33  
+  - **Total individual contributions:** $54,519,239.38  
+    - **Itemized individual contributions:** $38,215,786.00  
+    - **Unitemized individual contributions:** $16,303,454.00  
   - **Party committee contributions:** $0.00  
-  - **Other committee contributions:** $0.00  
+  - **Other committee contributions:** $272,268.95  
   - **Presidential public funds:** $0.00  
   - **Candidate contributions:** $0.00  
-- **Transfers from other authorized committees:** $3,817,780.66  
+- **Transfers from other authorized committees:** $314,765,644.59  
 - **Total loans received:** $0.00  
   - **Loans made by candidate:** $0.00  
   - **Other loans:** $0.00  
-- **Total offsets to expenditures:** $0.00  
-  - **Offsets to operating expenditures:** $0.00  
+- **Total offsets to expenditures:** $10,313,821.97  
+  - **Offsets to operating expenditures:** $10,313,821.97  
   - **Fundraising offsets:** $0.00  
   - **Legal and accounting offsets:** $0.00  
-- **Other receipts:** $0.00  
+- **Other receipts:** $8,226,254.68  
 
-> **Note:** [`CSV File if Total Disbursements`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/trump/spending/source_data/TRUMP%20SPENDING%20master_schedule_b_2024_11_08.xlsx)
 
 ---
 
 ### Total Spent
-**Coverage dates:** 11/15/2022 to 12/31/2022
+**Coverage dates:** 01/01/2023 to 10/16/2024
 
-- **Total disbursements:** $802,398.79  
-  - **Operating expenditures:** $802,398.79  
+- **Total disbursements:** $354,903,449.49  
+  - **Operating expenditures:** $350,374,015.85  
   - **Transfers to other authorized committees:** $0.00  
   - **Fundraising:** $0.00  
   - **Exempt legal and accounting:** $0.00  
   - **Total loan repayments made:** $0.00  
     - **Candidate loan repayments:** $0.00  
     - **Other loan repayments:** $0.00  
-  - **Total contribution refunds:** $0.00  
-    - **Individual refunds:** $0.00  
+  - **Total contribution refunds:** $68,728.64  
+    - **Individual refunds:** $67,728.64  
     - **Political party refunds:** $0.00  
-    - **Other committee refunds:** $0.00  
-  - **Other disbursements:** $0.00  
+    - **Other committee refunds:** $1,000.00  
+  - **Other disbursements:** $4,460,705.00  
 
 ---
 
 ### Cash Summary
-**Coverage dates:** 11/15/2022 to 12/31/2022  
+**Coverage dates:** 01/01/2023 to 10/16/2024  
 
-- **Beginning cash on hand:** $0.00  
-- **Ending cash on hand:** $3,020,902.11  
-- **Debts/loans owed to committee:** $0.00  
-- **Debts/loans owed by committee:** $89,447.37  
+- **Beginning cash on hand:** $3,020,902.11  
+- **Ending cash on hand:** $36,214,682.19  
+- **Debts/loans owed to committee:** $2,864,905.96  
+- **Debts/loans owed by committee:** $10,445.91  
+
 
 
 # DONALD J. TRUMP REPUBLICAN NOMINEE FUND 2024
