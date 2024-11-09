@@ -12,7 +12,7 @@
 
 [Spending by Category](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD) (Standardized)
 
-### Campaign Expenditures via Disbursements Descriptions (as per FEC Filings)
+### Campaign Expenditures via Disbursement Descriptions (as per FEC Filings)
 
 [`paid_media`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD)
 
