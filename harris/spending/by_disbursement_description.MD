@@ -8,7 +8,7 @@ Registration date: April 25, 2019
 
 $880,268,087.77 in total disbursements by authorized committees from August to October 16, 2024
 
-| Disbursement Description                  | Total Amount Received   | Number of Disbursements |
+| Disbursement Description                  | Total Amount Disbursed   | Number of Disbursements |
 |:------------------------------------------|------------------------:|-------------------------:|
 | MEDIA BUY & PRODUCTION | $440,063,191.93 | 4 |
 | MEDIA BUY | $232,941,968.23 | 9 |
