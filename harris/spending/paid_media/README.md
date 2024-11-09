@@ -12,6 +12,8 @@ A notable pattern in these expenditures is the campaign's investment in diverse 
 
 # Paid Media, Disbursements, Harris for President
 
+All entries below are disbursements that include "PAID_MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
+
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |----------|-----------|--------|-------------|------------------|---------|
 | HARRIS FOR PRESIDENT | EMERALD MEDIA LLC | MI | PAID MEDIA | 10/16/2024 | $200,000.00 |
