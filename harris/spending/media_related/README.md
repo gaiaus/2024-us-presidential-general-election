@@ -67,6 +67,7 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | MEDIA PRODUCTION | $35,678,901.00 | 6.37% | $234,567.89 |
 | PAID MEDIA | $4,567,890.00 | 0.82% | $45,678.90 |
 | MEDIA CONSULTING | $1,275,544.00 | 0.23% | $28,345.42 |
+| **GRAND TOTAL** | **$559,768,573.00** | **100%** |   |
 
 ## Geographic Distribution (Top 10 States)
 | State | Total Amount | % of Total | Number of Vendors |
