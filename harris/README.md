@@ -5,6 +5,10 @@ ID: C00703975
 
 Registration date: April 25, 2019
 
+Treasurer: KEANA SPENCER
+
+PHILADELPHIA, PA 19102 
+
 $880,268,087.77 in total disbursements filed with FEC.
 
 ### Financial Summary
