@@ -9,15 +9,8 @@ $997,950,787.25 in total disbursements by candidate's authorized committees ("Ha
 
 The total amount spent on **top five disbursement recipients** is **$634,765,764.79**.
 
-### Summary of Spending on Media/Event Production:
-**Media Buy & Production**: **$411,193,073.76**
+Also available,spending [**by category**](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris%2Fspending%2Fby_spending_category.MD).
 
-**Event Production**: **$15,166,491.45**
-
-**Media Production**: **$11,571,632.49**
-
-**Audio Visual Services**: **$10,217,793.99**
-   
 ## 2024, TOP 500 Disbursement Recipients 
 | recipient                                   | total_amount_received | number_of_disbursements | disbursement_description | disbursement_date | notes |
 |:--------------------------------------------|-----------------------:|-------------------------:|:-------------------------|:------------------|:------|
