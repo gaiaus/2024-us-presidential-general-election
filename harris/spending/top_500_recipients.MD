@@ -21,7 +21,7 @@ The total amount spent on **top five disbursement recipients** is **$634,765,764
 ## 2024, TOP 500 Disbursement Recipients 
 | recipient                                   | total_amount_received | number_of_disbursements | disbursement_description | disbursement_date | notes |
 |:--------------------------------------------|-----------------------:|-------------------------:|:-------------------------|:------------------|:------|
-| MEDIA BUYING & ANALYTICS LLC | $281,309,258.93 | 44 | MEDIA BUY & PRODUCTION | 2024-09-16 00:00:00 | no website; In 2020, Joe Biden’s campaign paid ~$150 million to this vendor/provider, which appears to have been established soon after Biden announced his candidacy in 2019.[^1] |
+| MEDIA BUYING & ANALYTICS LLC | $281,309,258.93 | 44 | MEDIA BUY & PRODUCTION | 2024-09-16 00:00:00 | no website[^1] |
 | GAMBIT STRATEGIES LLC | $122,337,175.10 | 55 | MEDIA BUY | 2024-09-16 00:00:00 |  |
 | BULLY PULPIT INTERACTIVE LLC | $101,216,586.94 | 68 | MEDIA BUY | 2024-09-06 00:00:00 |  |
 | DUPONT CIRCLE STRATEGIES LLC | $94,558,843.33 | 93 | MEDIA BUY & PRODUCTION | 2024-09-06 00:00:00 |no website|
