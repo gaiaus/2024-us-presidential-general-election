@@ -4,7 +4,7 @@
 
 **Note**: *The spending categories were created to simplify the analysis of disbursements in the Trump campaign’s spending data. The original disbursement_description field contained highly specific and varied descriptions that lacked uniformity. To address this, I grouped similar spending types under standardized categories, making it easier to identify spending patterns in key areas*.
 
-If you’re interested in seeing a similar comparison of spending categories for the Trump campaign, look [here](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD).
+If you’re interested in seeing a similar comparison of spending categories for the Harris campaign, look [here](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD).
 
 *The methodology for estimating total possible disbursements across spending categories varies between the Trump and Harris campaigns, reflecting differences in the specificity of disbursement descriptions and the potential informational value of recipient names. This variation impacts the interpretability and granularity of expenditure classification across categories for each campaign*.
 
