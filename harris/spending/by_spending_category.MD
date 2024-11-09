@@ -2,15 +2,15 @@
 
 ## Explanation of "Spending by Category" Table
 
-**Purpose of the Table**: The goal was to estimate how much was spent in various categories, such as "Media & Advertising," "Consulting & Strategy," and "Hotels." Since each expenditure might serve multiple purposes, we looked at each transaction and tried to determine which categories it might fit into based on keywords in the description or recipient name.
+**Purpose of the Table**: This analysis aims to estimate spending allocations across categories such as "Media & Advertising," "Consulting & Strategy," and "Hotels." Recognizing that individual expenditures can often serve multiple purposes, each transaction was assessed to identify potential categories based on keywords in the description and or the recipient name.
 
-**Double-Counting Approach**: For example, if a single expenditure was for "Consulting" but was also related to "Media," we counted it in both "Consulting & Strategy" and "Media & Advertising." This double-counting was intentional to give a full picture of spending possibilities in each area, even if an expenditure overlaps categories.
+**Double-Counting**: If a single expenditure is related to multiple categories for instance, if "Consulting" overlaps with "Media", it is counted in both "Consulting & Strategy" and "Media & Advertising." This double-counting approach is deliberate, designed to provide a comprehensive view of possible spending allocations in each category, acknowledging that some expenditures may naturally span multiple areas.
 
-**Resulting Totals**: Because of this approach, the sum of "Total Amount Disbursed" in the table is higher than the actual total amount spent. Each expenditure might appear more than once if it’s associated with multiple categories.
+**Implications for Resulting Totals:**: Due to this approach, the sum of "Total Amount Disbursed" across categories exceeds the actual total amount spent. Expenditures may appear in more than one category if they are associated with multiple purposes.
 
-**Limitations of This Estimate**: This table is meant to give an idea of where money could have been allocated, but it doesn’t perfectly capture the exact purpose behind each expense. Without more detail, it’s hard to know precisely how each dollar was used, so this table provides an estimated breakdown based on descriptive information rather than concrete allocations.
+**Limitations of This Estimation**: This table provides an approximate view of potential spending areas, rather than a precise accounting of each dollar’s intended purpose. Given the limitations in descriptive information, especially due to the nature of the Harris campaign's filings, the table relies on inferred categorizations rather than explicit allocation data.
 
-Also, please note that the descriptions in Harris for President campaign filings contain fewer details compared to the descriptions in the Trump campaign’s filings, which provide more specificity. As a result, this approach was necessary to estimate spending areas without precise allocation information.
+**Contextual Note**: The Harris for President campaign filings include fewer descriptive details than those of the Trump campaign, which offer more specificity. As a result, this approach was essential to estimate spending allocations without granular information on each transaction’s precise purpose.
 
 If you’re interested in seeing a similar comparison of spending categories for the Trump campaign, look [here](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/trump/spending/by_spending_category.MD).
 
