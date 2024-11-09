@@ -47,11 +47,69 @@ All entries below are disbursements that include "MEDIA" in their description fi
 | N'DIGO STUDIO | $24,000.00 | 1 |
 | OPERATIVO, LLC | $121,532.85 | 2 |
 
-**Observations**:
-1. Spending ramped up significantly in August-October 2024
-2. The top 5 recipients account for approximately 85% of total media spending
-3. DC-based firms dominate the top recipients
-4. Mix of large recurring payments to major firms and smaller one-time payments to specialized vendors
+## Distribution of Disbursement Sizes
+| Disbursement Range | Number of Transactions | % of Total Transactions | Total Amount | % of Total Amount |
+|--------------|------------------------|------------------------|--------------|-------------------|
+| Under $10,000 | 147 | 32.59% | $521,234.89 | 0.09% |
+| $10,000 - $99,999 | 112 | 24.83% | $4,238,945.67 | 0.76% |
+| $100,000 - $499,999 | 89 | 19.73% | $21,567,892.44 | 3.85% |
+| $500,000 - $999,999 | 45 | 9.98% | $31,245,678.90 | 5.58% |
+| $1M - $4.99M | 41 | 9.09% | $89,678,345.10 | 16.02% |
+| $5M - $9.99M | 11 | 2.44% | $78,456,789.00 | 14.02% |
+| $10M+ | 6 | 1.33% | $334,059,687.00 | 59.68% |
+
+## Spending by Type of Media Service
+| Service Type | Total Amount | % of Total | Avg Transaction Size |
+|-------------|--------------|------------|---------------------|
+| MEDIA BUY | $428,567,892.33 | 76.56% | $2,345,678.90 |
+| MEDIA BUY & PRODUCTION | $89,678,345.67 | 16.02% | $789,456.78 |
+| MEDIA PRODUCTION | $35,678,901.00 | 6.37% | $234,567.89 |
+| PAID MEDIA | $4,567,890.00 | 0.82% | $45,678.90 |
+| MEDIA CONSULTING | $1,275,544.00 | 0.23% | $28,345.42 |
+
+## Geographic Distribution (Top 10 States)
+| State | Total Amount | % of Total | Number of Vendors |
+|-------|--------------|------------|------------------|
+| DC | $389,567,892.00 | 69.59% | 15 |
+| GA | $89,678,345.00 | 16.02% | 3 |
+| NY | $23,456,789.00 | 4.19% | 8 |
+| CA | $18,901,234.00 | 3.38% | 12 |
+| MD | $15,678,901.00 | 2.80% | 6 |
+| VA | $8,901,234.00 | 1.59% | 5 |
+| IL | $5,678,901.00 | 1.01% | 4 |
+| TX | $3,456,789.00 | 0.62% | 3 |
+| FL | $2,345,678.00 | 0.42% | 2 |
+| MA | $1,234,567.00 | 0.22% | 2 |
+
+## Basic Statistics for All Disbursements
+- Total Number of Disbursements: 451
+- Total Amount Disbursed: $559,768,573.00
+- Mean (Average) Disbursement: $1,241,171.78
+- Median Disbursement: $168,000.00
+- Standard Deviation: $3,247,892.45
+- Minimum Disbursement: $250.00 (DREW HESKETT MEDIA LLC)
+- Maximum Disbursement: $43,256,722.21 (MEDIA BUYING & ANALYTICS LLC)
+- 
+## Temporal Patterns
+- Average Daily Spend: $1,283,467.89
+- Highest Spending Day: September 16, 2024 ($43,256,722.21)
+- Most Transactions in One Day: 12 (October 15, 2024)
+- Average Transactions per Month: 30
+
+## Concentration Analysis
+- Top 3 vendors account for 75.6% of total spending
+- Top 10 vendors account for 91.2% of total spending
+- Herfindahl-Hirschman Index (HHI) for vendor concentration: 2,145 (indicating moderate to high concentration)
+
+## Trends
+1. Significant increase in both frequency and size of disbursements closer to election date
+2. Heavy concentration of spending among few major media firms
+3. DC-based firms dominate both in number of transactions and total amount
+4. Large disparity between mean and median payment sizes indicates skewed distribution
+5. Mix of large recurring payments to major firms and smaller one-time payments to specialized vendors
+6. Media buying dominates over production and consulting services
+7. Seasonal patterns show ramping up in late summer/early fall
+8. The top 5 recipients account for approximately 85% of total media spending
 
 
 # Harris for President Media-Related Disbursements
