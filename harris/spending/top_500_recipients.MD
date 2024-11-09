@@ -10,6 +10,11 @@ $880,268,087.77 in total disbursements by this candidate's authorized committees
 
 The total amount spent on top five recipients is $634,765,764.79.
 
+**Media Buy & Production**: $440,063,191.93
+**Event Production**: $16,158,371.96
+**Media Production**: $6,323,754.01
+**Audio Visual Services**: $8,116,887.14
+
 | recipient                                   | total_amount_received | number_of_disbursements | disbursement_description | disbursement_date | notes |
 |:--------------------------------------------|-----------------------:|-------------------------:|:-------------------------|:------------------|:------|
 | MEDIA BUYING & ANALYTICS LLC | $281,309,258.93 | 44 | MEDIA BUY & PRODUCTION | 2024-09-16 00:00:00 |  |
