@@ -104,6 +104,8 @@ All entries below are disbursements that include "MEDIA" in their description fi
 # Harris for President Media-Related Disbursements
 Federal Election Commission (FEC) Filings: August 2023 - October 2024
 
+All entries below are disbursements that include "MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
+
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |---------|-----------|--------|-------------|-------------------|---------|
 | HARRIS FOR PRESIDENT | RISEUP MEDIA & MARKETING SOLUTIONS | MD | MEDIA BUY | 10/16/2024 | $800,000.00 |
