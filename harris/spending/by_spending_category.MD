@@ -4,7 +4,7 @@
 
 **Purpose of the Table**: The goal was to estimate how much was spent in various categories, such as "Media & Advertising," "Consulting & Strategy," and "Hotels." Since each expenditure might serve multiple purposes, we looked at each transaction and tried to determine which categories it might fit into based on keywords in the description or recipient name.
 
-**Double-Counting Approach**: For example, if a single expenditure was for "Consulting" but was also related to "Media," we counted it in both "Consulting & Strategy" and "Media & Advertising." This double-counting was intentional to give a full picture of spending in each area, even if an expenditure overlaps categories.
+**Double-Counting Approach**: For example, if a single expenditure was for "Consulting" but was also related to "Media," we counted it in both "Consulting & Strategy" and "Media & Advertising." This double-counting was intentional to give a full picture of spending possibilities in each area, even if an expenditure overlaps categories.
 
 **Resulting Totals**: Because of this approach, the sum of "Total Amount Disbursed" in the table is higher than the actual total amount spent. Each expenditure might appear more than once if it’s associated with multiple categories.
 
