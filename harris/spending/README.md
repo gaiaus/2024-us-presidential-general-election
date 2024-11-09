@@ -16,6 +16,8 @@ Based on FEC filings.
 
 [`paid_media`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD)
 
+[`media_related`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris%2Fspending%2Fmedia_related%2FREADME.md)
+
 [`event production`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/event_production)
 
 ### References
