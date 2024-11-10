@@ -12,7 +12,7 @@ The total amount spent on **top five disbursement recipients** is **$634,765,764
 Also available:
 - [Actual Spending by Disbursement Description](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_disbursement_description.MD)
 
-- [*Estimated* Spending by Standardized Category](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris%2Fspending%2Fby_spending_category.MD).
+- [*Estimated* Spending by Standardized Category](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris%2Fspending%2Fby_spending_category.MD)
 
 ## 2024, TOP 500 Disbursement Recipients 
 | recipient                                   | total_amount_received | number_of_disbursements | disbursement_description | disbursement_date | notes |
