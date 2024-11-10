@@ -1,4 +1,6 @@
-In campaign finance, "event production" typically refers to the costs associated with planning, organizing, and executing campaign events. This includes but is not limited to:
+# Harris for President, "event_prooduction" Disbursements
+
+"Event production" typically refers to the costs associated with planning, organizing, and executing campaign events. This includes but is not limited to:
 - Audio/visual equipment and services
 - Stage and set design
 - Lighting systems
