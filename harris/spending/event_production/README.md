@@ -1,4 +1,5 @@
-# Harris for President, "event_prooduction" Disbursements
+# Harris for President, "event_production" Disbursements
+Based on Federal Election Commission (FEC) Filings: August 2023 - October 2024
 
 "Event production" typically refers to the costs associated with planning, organizing, and executing campaign events. This includes but is not limited to:
 - Audio/visual equipment and services
