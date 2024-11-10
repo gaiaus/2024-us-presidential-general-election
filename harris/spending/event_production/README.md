@@ -1,5 +1,5 @@
-# Harris for President, "event_production" Disbursements
-Based on Federal Election Commission (FEC) Filings: August 2023 - October 2024
+# Harris for President, Event Production Disbursements
+Based on Federal Election Commission (FEC) filings: August 2023 - October 2024
 
 "Event production" typically refers to the costs associated with planning, organizing, and executing campaign events. This includes but is not limited to:
 - Audio/visual equipment and services
@@ -14,8 +14,6 @@ Based on Federal Election Commission (FEC) Filings: August 2023 - October 2024
 - Security and crowd management
 
 While some of these disbursements may include talent or appearance fees as part of the event production costs, it's uncertain whether campaigns are required to categorize such fees separately in FEC filings. The data shown in the table represents all disbursements where "event production" appears in the disbursement description field of Harris for President's FEC filings, spanning from **May to October 2024**. The payments range from small production costs (under $500) to major investments (up to $500,000), with recipients including major production companies, venues, and individual contractors.
-
-# Event Production, Disbursements, Harris for President
 
 All entries below are disbursements that include "EVENT_PRODUCTION" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
