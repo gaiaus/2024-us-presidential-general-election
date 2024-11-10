@@ -1,7 +1,7 @@
-# Harris for President "media" Related Disbursements
+# Harris for President -- All Media Related Disbursements
 Based on Federal Election Commission (FEC) Filings: August 2023 - October 2024
 
-All entries below are disbursements that include "media" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
+All entries below are disbursements that include the word "MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
 ## Monthly Spending Totals for 'MEDIA' Related Disbursements (Chronological Order)
 | Month | Total Disbursements | Number of Transactions |
