@@ -1,4 +1,7 @@
-In campaign finance, "paid media" refers to any form of advertising or media placement that a campaign pays for directly. This includes but is not limited to:
+# Harris for President -- Paid Media Disbursements
+Based on Federal Election Commission (FEC) filings: August 2023 - October 16, 2024
+
+"Paid media" refers to any form of advertising or media placement that a campaign pays for directly. This includes but is not limited to:
 - Television and radio advertisements
 - Digital advertising
 - Print media placements
@@ -10,9 +13,7 @@ The following table shows disbursements (payments) made by Harris for President 
 
 A notable pattern in these expenditures is the campaign's investment in diverse media outlets, including several ethnic and community-focused media organizations (such as Asian American Journal, Philippine Times, Las Vegas Japan Times, and El Mundo Newspaper), suggesting a strategy to reach various demographic groups through their preferred media channels.
 
-# Paid Media, Disbursements, Harris for President
-
-All entries below are disbursements that include "PAID_MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
+All entries below are disbursements that include "paid media" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |----------|-----------|--------|-------------|------------------|---------|
