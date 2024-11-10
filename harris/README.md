@@ -11,6 +11,23 @@ PHILADELPHIA, PA 19102
 
 $880,268,087.77 in total disbursements filed with FEC.
 
+**DESIGNATION OF OTHER AUTHORIZED COMMITTEES**
+
+    Harris Victory Fund
+    FEC ID #: C00744946
+    430 South Capitol Street SE
+    Washington, DC 20003
+
+    Harris Action Fund
+    FEC ID #: C00838912
+    430 South Capitol Street SE
+    Washington, DC 20003
+
+    Harris Baldwin Victory Fund
+    FEC ID #: C00849281
+    PO Box 58174
+    Philadelphia, PA 19102
+
 ### Financial Summary for Reporting Period
 
 **Covering Period:** 10/01/2024 Through 10/16/2024
