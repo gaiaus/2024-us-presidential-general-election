@@ -14,7 +14,7 @@ Also available:
 
 - [*Estimated* Spending by Standardized Category](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris%2Fspending%2Fby_spending_category.MD)
 
-## 2024, TOP 500 Disbursement Recipients 
+## TOP 500 Disbursement Recipients 
 | recipient                                   | total_amount_received | number_of_disbursements | disbursement_description | disbursement_date | notes |
 |:--------------------------------------------|-----------------------:|-------------------------:|:-------------------------|:------------------|:------|
 | MEDIA BUYING & ANALYTICS LLC [^1] | $281,309,258.93 | 44 | MEDIA BUY & PRODUCTION | 2024-09-16 00:00:00 | no website |
