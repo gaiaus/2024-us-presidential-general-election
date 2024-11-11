@@ -21,4 +21,5 @@ All data and analysus is based on reported figures from campaign filings to the 
 ### References
 
 [`source_data`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/source_data)
+
 [Federal Election Commission](www.fec.gov)
