@@ -12,9 +12,61 @@ Registration date: November 15, 2022
 
 $354,932,583.44 spent in total disbursements by candidate's authorized committees from January 01, 2023 to October 16, 2024.
 
-### Financial Summary for Reporting Period
+# Financial Summary
+*Coverage dates: 11/15/2022 to 10/16/2024*
 
-**Covering Period:** 10/01/2024 Through 10/16/2024
+## Total Receipts: $391,949,664.42
+
+### Contributions Breakdown ($54,797,028.57)
+| Category | Amount |
+|----------|---------|
+| Individual Contributions (Total) | $54,524,759.62 |
+| - Itemized | $38,220,536.00 |
+| - Unitemized | $16,304,224.00 |
+| Party Committee Contributions | $0.00 |
+| Other Committee Contributions | $272,268.95 |
+| Presidential Public Funds | $0.00 |
+| Candidate Contributions | $0.00 |
+
+### Other Receipt Categories
+| Category | Amount |
+|----------|---------|
+| Transfers from Other Authorized Committees | $318,612,559.20 |
+| Total Loans Received | $0.00 |
+| - Candidate Loans | $0.00 |
+| - Other Loans | $0.00 |
+| Total Offsets to Expenditures | $10,313,821.97 |
+| - Operating Offsets | $10,313,821.97 |
+| - Fundraising Offsets | $0.00 |
+| - Legal/Accounting Offsets | $0.00 |
+| Other Receipts | $8,226,254.68 |
+
+## Total Disbursements: $355,734,982.23
+
+### Disbursement Breakdown
+| Category | Amount |
+|----------|---------|
+| Operating Expenditures | $351,176,414.64 |
+| Transfers to Other Authorized Committees | $29,133.95 |
+| Fundraising | $0.00 |
+| Exempt Legal and Accounting | $0.00 |
+| Total Loan Repayments | $0.00 |
+| - Candidate Loan Repayments | $0.00 |
+| - Other Loan Repayments | $0.00 |
+| Total Contribution Refunds | $68,728.64 |
+| - Individual Refunds | $67,728.64 |
+| - Party Refunds | $0.00 |
+| - Committee Refunds | $1,000.00 |
+| Other Disbursements | $4,460,705.00 |
+
+## Cash Summary
+| Category | Amount |
+|----------|---------|
+| Ending Cash on Hand | $36,214,682.19 |
+| Debts/Loans Owed to Committee | $2,864,905.96 |
+| Debts/Loans Owed by Committee | $10,445.91 |
+
+---
 
 - **Cash on Hand at BEGINNING of the Reporting Period:** $119,676,444.12  
 - **Total Receipts This Period:** $16,227,642.28  
@@ -84,60 +136,7 @@ $354,932,583.44 spent in total disbursements by candidate's authorized committee
 | 30. Total Disbursements                                           | 99,689,404.21         | 355,705,848.28               | 0.00     |
 
 
-### Financial Summary
-
-**Coverage dates:** 01/01/2023 to 10/16/2024
-
-**Total Receipts:** $388,097,229.57  
-- **Total contributions:** $54,791,508.33  
-  - **Total individual contributions:** $54,519,239.38  
-    - **Itemized individual contributions:** $38,215,786.00  
-    - **Unitemized individual contributions:** $16,303,454.00  
-  - **Party committee contributions:** $0.00  
-  - **Other committee contributions:** $272,268.95  
-  - **Presidential public funds:** $0.00  
-  - **Candidate contributions:** $0.00  
-- **Transfers from other authorized committees:** $314,765,644.59  
-- **Total loans received:** $0.00  
-  - **Loans made by candidate:** $0.00  
-  - **Other loans:** $0.00  
-- **Total offsets to expenditures:** $10,313,821.97  
-  - **Offsets to operating expenditures:** $10,313,821.97  
-  - **Fundraising offsets:** $0.00  
-  - **Legal and accounting offsets:** $0.00  
-- **Other receipts:** $8,226,254.68  
-
-
 ---
-
-### Total Spent
-**Coverage dates:** 01/01/2023 to 10/16/2024
-
-- **Total disbursements:** $354,903,449.49  
-  - **Operating expenditures:** $350,374,015.85  
-  - **Transfers to other authorized committees:** $0.00  
-  - **Fundraising:** $0.00  
-  - **Exempt legal and accounting:** $0.00  
-  - **Total loan repayments made:** $0.00  
-    - **Candidate loan repayments:** $0.00  
-    - **Other loan repayments:** $0.00  
-  - **Total contribution refunds:** $68,728.64  
-    - **Individual refunds:** $67,728.64  
-    - **Political party refunds:** $0.00  
-    - **Other committee refunds:** $1,000.00  
-  - **Other disbursements:** $4,460,705.00  
-
----
-
-### Cash Summary
-**Coverage dates:** 01/01/2023 to 10/16/2024  
-
-- **Beginning cash on hand:** $3,020,902.11  
-- **Ending cash on hand:** $36,214,682.19  
-- **Debts/loans owed to committee:** $2,864,905.96  
-- **Debts/loans owed by committee:** $10,445.91  
-
-
 
 # DONALD J. TRUMP REPUBLICAN NOMINEE FUND 2024
 
