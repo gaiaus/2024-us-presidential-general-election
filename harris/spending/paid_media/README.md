@@ -1,7 +1,11 @@
 # Harris for President -- Paid Media Disbursements
 Based on Federal Election Commission (FEC) filings: August 2023 - October 16, 2024
 
-"Paid media" refers to any form of advertising or media placement that a campaign pays for directly. This includes but is not limited to:
+While all media buys are a form of paid media, not all paid media is considered a media buy. 
+
+Paid media is the overarching term, while a media buy specifically refers to purchasing advertising placements on particular platforms or channels.
+
+"Paid media" refers to any form of advertising or media placement that a campaign **pays for directly**. This includes but is not limited to:
 - Television and radio advertisements
 - Digital advertising
 - Print media placements
@@ -12,6 +16,13 @@ Based on Federal Election Commission (FEC) filings: August 2023 - October 16, 20
 The following table shows disbursements (payments) made by Harris for President that were specifically categorized as "paid media" in their Federal Election Commission (FEC) filings. These transactions represent different forms of paid advertising and media buys across various states, with recipients ranging from local radio stations and newspapers to billboard companies and broadcasting groups. The data spans from April to October 2024, with amounts varying from relatively small buys ($154.00) to larger media investments ($200,000.00).
 
 A notable pattern in these expenditures is the campaign's investment in diverse media outlets, including several ethnic and community-focused media organizations (such as Asian American Journal, Philippine Times, Las Vegas Japan Times, and El Mundo Newspaper), suggesting a strategy to reach various demographic groups through their preferred media channels.
+
+The Harris campaign reported a total of $245,507.89 in expenditures for placed media.
+
+This repository also includes data on the Harris campaign’s spending for:
+
+    - [All media-related disbursements](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/paid_media)
+    - [Specific disbursements categorized as media buys](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/media_buys)
 
 All entries below are disbursements that include "PAID MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
