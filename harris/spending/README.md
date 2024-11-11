@@ -1,12 +1,10 @@
 # Harris for President
-
-## Spending 
-Based on FEC filings.
+All data and analysus is based on reported figures from campaign filings to the FEC.
 
 
-### Analysis:
+### Campaign Spending Overview:
 
-[Top 500 Disbursement Recipients](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/top_500_recipients.MD) (Coverage Period: August - October 16, 2024)
+[Top 500 Disbursement Recipients](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/top_500_recipients.MD) (Coverage Period: 2023 - October 16, 2024)
 
 [Actual Spending by Disbursement Description](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_disbursement_description.MD)
 
@@ -23,3 +21,4 @@ Based on FEC filings.
 ### References
 
 [`source_data`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/source_data)
+[Federal Election Commission](www.fec.gov)
