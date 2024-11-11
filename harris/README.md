@@ -116,6 +116,7 @@ Registration date: January 21, 2019
 *Terminated* 
 
 ### Financial Summary
+*Coverage dates: 01/01/2023 to 06/30/2023*
 
 **Total disbursements:** $69,741.02  
 - **Operating expenditures:** $21,224.90  
