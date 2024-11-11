@@ -59,4 +59,5 @@ Each entry below reflects a disbursement labeled with "PLACED MEDIA" in the desc
 | 360 TOUCH LLC | PLACED MEDIA | 5,000.00 | 2023-05-10 00:00:00 |
 | 360 TOUCH LLC | PLACED MEDIA | 175,000.00 | 2023-04-25 00:00:00 |
 | 360 TOUCH LLC | PLACED MEDIA | 553,279.95 | 2023-04-25 00:00:00 |
+| **TOTAL**| **$217,752,218.84** |   |
 
