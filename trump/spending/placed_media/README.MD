@@ -1,7 +1,7 @@
 # Trump for President 2024, Inc. -- Placed Media Disbursments 
-
-Based on Federal Election Commission (FEC) filings: 2023 - October 2024
 ---
+Based on Federal Election Commission (FEC) filings: 2023 - October 2024
+
 In the Trump campaign's financial reporting, "placed media" refers to expenditures for purchasing advertising space or airtime across media channels, including television, radio, digital platforms, and print. 
 
 Similarly, the Harris campaign labels these expenditures as "media buys," but both terms denote the same activity of securing paid placements for campaign content.
