@@ -20,9 +20,8 @@ A notable pattern in these expenditures is the campaign's investment in diverse 
 The Harris campaign reported a total of $245,507.89 in expenditures for placed media.
 
 This repository also includes data on the Harris campaign’s spending for:
-
-    - [All media-related disbursements](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/paid_media)
-    - [Specific disbursements categorized as media buys](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/media_buys)
+* [All media-related disbursements](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/paid_media)
+* [Specific disbursements categorized as media buys](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/media_buys)
 
 All entries below are disbursements that include "PAID MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
 
