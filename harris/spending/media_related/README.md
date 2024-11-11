@@ -64,9 +64,7 @@ All entries below are disbursements that include the word "MEDIA" in their descr
 | MEDIA BUY | $428,567,892.33 | 76.56% | $2,345,678.90 |
 | MEDIA BUY & PRODUCTION | $89,678,345.67 | 16.02% | $789,456.78 |
 | MEDIA PRODUCTION | $35,678,901.00 | 6.37% | $234,567.89 |
-| PAID MEDIA | $4,567,890.00 | 0.82% | $45,678.90 |
 | MEDIA CONSULTING | $1,275,544.00 | 0.23% | $28,345.42 |
-| **GRAND TOTAL** | **$559,768,573.00** | **100%** |   |
 
 
 ## Basic Statistics for All Disbursements
