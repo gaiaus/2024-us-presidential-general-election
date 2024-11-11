@@ -1,7 +1,8 @@
 # OBAMA FOR AMERICA 
 *Coverage Dates: July 2007 - December 2008*
 
-Total spending on media buys: **$342,126,336.68**
+Total spending on media buys: **$342,126,336.68**. 
+The media buy spend for August 2008 - November 2008 is $238,844,392.91.
 
 Three distinct spending phases:
 1. Initial phase (Jul-Sep 2007): ~$1M per month
