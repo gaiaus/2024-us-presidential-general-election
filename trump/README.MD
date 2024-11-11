@@ -148,56 +148,50 @@ Registration date: January 26, 2024
 
 *Terminated*
 
-### Financial Summary
+# Financial Summary
+*Coverage dates: 01/01/2024 to 08/08/2024*
 
-**Coverage dates:** 01/01/2024 to 08/08/2024
+## Total Receipts: $29,133.95
 
-**Total Receipts:** $29,133.95  
-- **Total contributions:** $0.00  
-  - **Total individual contributions:** $0.00  
-    - **Itemized individual contributions:** $0.00  
-    - **Unitemized individual contributions:** $0.00  
-  - **Party committee contributions:** $0.00  
-  - **Other committee contributions:** $0.00  
-  - **Presidential public funds:** $0.00  
-  - **Candidate contributions:** $0.00  
-- **Transfers from other authorized committees:** $29,133.95  
-- **Total loans received:** $0.00  
-  - **Loans made by candidate:** $0.00  
-  - **Other loans:** $0.00  
-- **Total offsets to expenditures:** $0.00  
-  - **Offsets to operating expenditures:** $0.00  
-  - **Fundraising offsets:** $0.00  
-  - **Legal and accounting offsets:** $0.00  
-- **Other receipts:** $0.00  
+### Contributions Breakdown ($0.00)
+| Category | Amount |
+|----------|---------|
+| Individual Contributions (Total) | $0.00 |
+| - Itemized | $0.00 |
+| - Unitemized | $0.00 |
+| Party Committee Contributions | $0.00 |
+| Other Committee Contributions | $0.00 |
+| Presidential Public Funds | $0.00 |
+| Candidate Contributions | $0.00 |
 
+### Other Receipt Categories
+| Category | Amount |
+|----------|---------|
+| Transfers from Other Authorized Committees | $29,133.95 |
+| Total Loans Received | $0.00 |
+| - Candidate Loans | $0.00 |
+| - Other Loans | $0.00 |
+| Total Offsets to Expenditures | $0.00 |
+| - Operating Offsets | $0.00 |
+| - Fundraising Offsets | $0.00 |
+| - Legal/Accounting Offsets | $0.00 |
+| Other Receipts | $0.00 |
 
----
+## Total Disbursements: $29,133.95
 
-### Total Spent
-**Coverage dates:** 01/01/2024 to 08/08/2024
+### Disbursement Breakdown
+| Category | Amount |
+|----------|---------|
+| Operating Expenditures | $0.00 |
+| Transfers to Other Authorized Committees | $29,133.95 |
+| Fundraising | $0.00 |
+| Exempt Legal and Accounting | $0.00 |
+| Total Loan Repayments | $0.00 |
+| - Candidate Loan Repayments | $0.00 |
+| - Other Loan Repayments | $0.00 |
+| Total Contribution Refunds | $0.00 |
+| - Individual Refunds | $0.00 |
+| - Party Refunds | $0.00 |
+| - Committee Refunds | $0.00 |
+| Other Disbursements | $0.00 |
 
-- **Total disbursements:** $29,133.95  
-  - **Operating expenditures:** $0.00  
-  - **Transfers to other authorized committees:** $29,133.95 (DONALD J. TRUMP FOR PRESIDENT 2024, INC.) 
-  - **Fundraising:** $0.00  
-  - **Exempt legal and accounting:** $0.00  
-  - **Total loan repayments made:** $0.00  
-    - **Candidate loan repayments:** $0.00  
-    - **Other loan repayments:** $0.00  
-  - **Total contribution refunds:** $0.00  
-    - **Individual refunds:** $0.00  
-    - **Political party refunds:** $0.00  
-    - **Other committee refunds:** $0.00  
-  - **Other disbursements:** $0.00  
-
-
----
-
-### Cash Summary
-**Coverage dates:** 01/01/2024 to 08/08/2024  
-
-- **Beginning cash on hand:** $0.00  
-- **Ending cash on hand:** $0.00  
-- **Debts/loans owed to committee:** $0.00  
-- **Debts/loans owed by committee:** $0.00  
