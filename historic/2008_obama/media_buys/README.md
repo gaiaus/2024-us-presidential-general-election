@@ -28,7 +28,7 @@ Three distinct spending phases:
 | November 2008 | $86,982.38 | 16 |
 | December 2008 | $125,637.05 | 5 |
 
-## 2. Top 10 Recipients by Total Amount
+## 2. Top 10 Recipients by Total Disbursement Amount
 | Recipient | Total Amount | # of Transactions | Avg Transaction |
 |-----------|--------------|-------------------|-----------------|
 | GMMB INC./GMMB | $251,847,563.92 | 89 | $2,829,747.91 |
@@ -42,7 +42,7 @@ Three distinct spending phases:
 | BIG SHOULDERS DIGITAL VIDEO | $38,565.00 | 6 | $6,427.50 |
 | FIRST CALL UPLINKS | $11,260.00 | 6 | $1,876.67 |
 
-## 3. Geographic Distribution of Spending
+## 3. Geographic Distribution of Media Buy Spending
 | State | Total Amount | % of Total | # of Vendors |
 |-------|--------------|------------|--------------|
 | PA/MA* | $251,847,563.92 | 78.9% | 1 |
