@@ -28,10 +28,61 @@ $880,268,087.77 in total disbursements filed with FEC.
     PO Box 58174
     Philadelphia, PA 19102
 
-### Financial Summary for Reporting Period
+# Financial Summary
+*Coverage dates: 01/01/2021 to 10/16/2024*
 
-**Covering Period:** 10/01/2024 Through 10/16/2024
+## Total Receipts: $997,950,787.25
 
+### Contributions Breakdown ($504,772,445.59)
+| Category | Amount |
+|----------|---------|
+| Individual Contributions (Total) | $504,663,252.56 |
+| - Itemized | $323,500,852.00 |
+| - Unitemized | $181,162,400.00 |
+| Party Committee Contributions | $2,050.00 |
+| Other Committee Contributions | $107,143.03 |
+| Presidential Public Funds | $0.00 |
+| Candidate Contributions | $0.00 |
+
+### Other Receipt Categories
+| Category | Amount |
+|----------|---------|
+| Transfers from Other Authorized Committees | $487,043,104.42 |
+| Total Loans Received | $0.00 |
+| - Candidate Loans | $0.00 |
+| - Other Loans | $0.00 |
+| Total Offsets to Expenditures | $4,655,465.97 |
+| - Operating Offsets | $4,655,465.97 |
+| - Fundraising Offsets | $0.00 |
+| - Legal/Accounting Offsets | $0.00 |
+| Other Receipts | $1,479,771.27 |
+
+## Total Disbursements: $881,058,161.42
+
+### Disbursement Breakdown
+| Category | Amount |
+|----------|---------|
+| Operating Expenditures | $869,685,188.48 |
+| Transfers to Other Authorized Committees | $67,904.42 |
+| Fundraising | $0.00 |
+| Exempt Legal and Accounting | $0.00 |
+| Total Loan Repayments | $0.00 |
+| - Candidate Loan Repayments | $0.00 |
+| - Other Loan Repayments | $0.00 |
+| Total Contribution Refunds | $5,228,131.73 |
+| - Individual Refunds | $5,228,931.73 |
+| - Party Refunds | $0.00 |
+| - Committee Refunds | -$800.00 |
+| Other Disbursements | $6,076,936.79 |
+
+## Cash Summary
+| Category | Amount |
+|----------|---------|
+| Ending Cash on Hand | $118,825,510.44 |
+| Debts/Loans Owed to Committee | $0.00 |
+| Debts/Loans Owed by Committee | $0.00 |
+
+---
 - **Cash on Hand at BEGINNING of the Reporting Period:** $187,471,148.07  
 - **Total Receipts This Period:** $97,211,775.02  
 - **Subtotal (Beginning Cash + Receipts):** $284,682,923.09  
@@ -51,65 +102,9 @@ $880,268,087.77 in total disbursements filed with FEC.
 **Additional Information:**
 - **Expenditures Subject To Limitation:** $0.00  
 - **NET Contributions (Other than Loans):** $495,091,386.89  
-- **NET Operating Expenditures:** $908,578,094.71  
-
-
-### Financial Summary
-
-**Coverage dates:** 01/01/2023 to 10/16/2024
-
-**Total Receipts:** $997,236,360.17  
-- **Total contributions:** $504,772,445.59  
-  - **Total individual contributions:** $504,663,252.56  
-    - **Itemized individual contributions:** $323,500,852.00  
-    - **Unitemized individual contributions:** $181,162,400.00  
-  - **Party committee contributions:** $2,050.00  
-  - **Other committee contributions:** $107,143.03  
-  - **Presidential public funds:** $0.00  
-  - **Candidate contributions:** $0.00  
-- **Transfers from other authorized committees:** $486,483,104.42  
-- **Total loans received:** $0.00  
-  - **Loans made by candidate:** $0.00  
-  - **Other loans:** $0.00  
-- **Total offsets to expenditures:** $4,503,751.85  
-  - **Offsets to operating expenditures:** $4,503,751.85  
-  - **Fundraising offsets:** $0.00  
-  - **Legal and accounting offsets:** $0.00  
-- **Other receipts:** $1,477,058.31  
-
-> **Note:** [`CSV FILE of Total Disbursements`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/source_data/HARRIS%20SPENDING%20master_schedule_b_2024_11_09.csv)
-
+- **NET Operating Expenditures:** $908,578,094.71
+  
 ---
-
-### Total Spent
-**Coverage dates:** 01/01/2023 to 10/16/2024
-
-- **Total disbursements:** $880,198,346.75  
-  - **Operating expenditures:** $868,873,889.93  
-  - **Transfers to other authorized committees:** $19,400.00  
-  - **Fundraising:** $0.00  
-  - **Exempt legal and accounting:** $0.00  
-  - **Total loan repayments made:** $0.00  
-    - **Candidate loan repayments:** $0.00  
-    - **Other loan repayments:** $0.00  
-  - **Total contribution refunds:** $5,437,131.67  
-    - **Individual refunds:** $5,437,131.67  
-    - **Political party refunds:** $0.00  
-    - **Other committee refunds:** $0.00  
-  - **Other disbursements:** $5,867,925.15  
-
-> **Note:** [`CSV FILE of Total Disbursements`](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/source_data/HARRIS%20SPENDING%20master%20schedule_b_2024_11_04.csv)
-
----
-
-### Cash Summary
-**Coverage dates:** 01/01/2023 to 10/16/2024  
-
-- **Beginning cash on hand:** $1,787,497.02  
-- **Ending cash on hand:** $118,825,510.44  
-- **Debts/loans owed to committee:** $0.00  
-- **Debts/loans owed by committee:** $0.00  
-
 
 # KAMALA HARRIS FOR THE PEOPLE
 Type: Presidential - Authorized by a Candidate
