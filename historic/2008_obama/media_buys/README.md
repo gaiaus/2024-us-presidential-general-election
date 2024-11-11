@@ -1,5 +1,6 @@
 # OBAMA FOR AMERICA 
 *Coverage Dates: July 2007 - December 2008*
+
 MEDIA BUYS, TOTAL SPENDING: $342,126,336.68
 
 Three distinct spending phases:
