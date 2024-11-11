@@ -1,7 +1,7 @@
 # OBAMA FOR AMERICA 
 *Coverage Dates: July 2007 - December 2008*
 
-MEDIA BUYS, TOTAL SPENDING: $342,126,336.68
+Total spending on media buys: **$342,126,336.68**
 
 Three distinct spending phases:
 1. Initial phase (Jul-Sep 2007): ~$1M per month
@@ -22,25 +22,19 @@ Three distinct spending phases:
 | May 2008 | $4,090,243.67 | 10 |
 | June 2008 | $6,619,378.92 | 11 |
 | July 2008 | $28,702,558.54 | 18 |
-| August 2008 | $31,339,179.13 | 25 |
-| September 2008 | $65,089,739.42 | 18 |
-| October 2008 | $142,328,491.98 | 33 |
+| August 2008 | **$31,339,179.13** | 25 |
+| September 2008 | **$65,089,739.42** | 18 |
+| October 2008 | **$142,328,491.98** | 33 |
 | November 2008 | $86,982.38 | 16 |
 | December 2008 | $125,637.05 | 5 |
 
-## 2. Top 10 Recipients by Total Disbursement Amount
+## 2. Top 3 Media Buy Recipients by Total Disbursement Amount
 | Recipient | Total Amount | # of Transactions | Avg Transaction |
 |-----------|--------------|-------------------|-----------------|
 | GMMB INC./GMMB | $251,847,563.92 | 89 | $2,829,747.91 |
 | FUSE INC. | $7,243,895.39 | 52 | $139,305.68 |
 | ELEVATION, LTD. | $696,823.67 | 7 | $99,546.24 |
-| MEDIA MANAGEMENT & PARTNERS | $22,494.00 | 3 | $7,498.00 |
-| AMERICAN EXPRESS | $25,628.50 | 7 | $3,661.21 |
-| HOUSTON SATELLITE UPLINK | $116,877.91 | 12 | $9,739.83 |
-| BANK OF AMERICA | $49,141.90 | 3 | $16,380.63 |
-| QRS NEW MEDIA | $11,225.00 | 2 | $5,612.50 |
-| BIG SHOULDERS DIGITAL VIDEO | $38,565.00 | 6 | $6,427.50 |
-| FIRST CALL UPLINKS | $11,260.00 | 6 | $1,876.67 |
+
 
 ## 3. Geographic Distribution of Media Buy Spending
 | State | Total Amount | % of Total | # of Vendors |
@@ -51,7 +45,7 @@ Three distinct spending phases:
 | TX | $116,877.91 | 0.0% | 1 |
 | Others Combined | $597,775.79 | 0.2% | 23 |
 
-*Note: GMMB appears with both PA and MA state designations in records
+*Note*: GMMB appears with both PA and MA state designations in records
 
 ## 4. Disbursement Size Distribution
 | Range | # of Transactions | Total Amount | % of Total Spending |
