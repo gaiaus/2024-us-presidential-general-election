@@ -18,7 +18,7 @@ This analysis originated from what I'll call the "Hinchcliffe Hypothesis" - a bi
 
 When the Harris campaign tried to leverage a comedian's joke into a campaign-ending moment, they went “all-in” on a stunning bluff: attempting to transform sanctimony and cultural censorship into political currency to clinch the electoral win. The mainstream media's coordinated compliance with this narrative represented the biggest coordinated check-raise in recent political history.
 
-But this hand revealed more than just campaign strategy - it exposed the ultimate ante. When the Democratic establishment decides to induce an anxiety of laughter, they're not just policing speech; they're trying to control the very mechanisms of thought. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
+But this hand revealed more than just campaign strategy - it exposed the ultimate ante. When the Democratic establishment decides to induce an anxiety of laughter, they're not just policing speech; they're trying to control the very mechanism of thought. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
 
 The media's willingness to frame a working comedian's misplaced joke as evidence of "fascism" wasn't just bad faith - it was a tell that demands closer scrutiny of the underlying financial incentives at play. 
 
@@ -193,3 +193,13 @@ This repository provides cleaned data sets, including detailed media buy disburs
 
 **Citation Note**
 Should you wish to cite or reference this analysis in your work, please attribute as "gaiaus repository (Github)." All data is from Federal Election Commission filings through October 16, 2024. 
+
+**Postscript: Historical Spending Comparisons**
+Comparing Harris campaign media spending with historical precedents (like Obama for America 2008) presents several analytical challenges. Multiple variables affect meaningful comparison:
+- Media cost inflation over 16 years
+- Structural changes in media consumption
+- Evolution of advertising channel mix
+- Shifts in campaign strategy
+- Different competitive media and political landscapes
+
+While precise spending comparisons are difficult without detailed cost basis data, the Obama for America disbursement records are included in this repository as his campaign provided more descriptive disbursement details. The Harris campaign's ambiguous disbursement categorizations represent a significant regression in campaign finance reporting to the FEC, even within their own party's reporting standards.
