@@ -1,107 +1,57 @@
 # Harris for President -- ALL Media Related Disbursements
 Based on Federal Election Commission (FEC) filings: August 2023 - October 2024
 
-All entries below are disbursements that include the word "MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
-
 ## Monthly Spending Totals for 'MEDIA' Related Disbursements (Chronological Order)
-| Month | Total Disbursements | Number of Transactions |
-|-------|-------------------|----------------------|
-| August 2023 | $5,948,415.82 | 12 |
-| September 2023 | $3,516,886.66 | 11 |
-| October 2023 | $5,651,634.40 | 14 |
-| November 2023 | $3,464,929.26 | 11 |
-| December 2023 | $935,787.67 | 6 |
-| January 2024 | $1,940,573.77 | 9 |
-| February 2024 | $1,638,164.14 | 10 |
-| March 2024 | $18,499,604.83 | 25 |
-| April 2024 | $11,772,617.11 | 38 |
-| May 2024 | $14,847,525.93 | 31 |
-| June 2024 | $43,302,343.17 | 28 |
-| July 2024 | $35,619,561.49 | 42 |
-| August 2024 | $127,561,983.90 | 52 |
-| September 2024 | $186,347,246.83 | 89 |
-| October 2024 (partial) | $98,721,298.02 | 73 |
-| **GRAND TOTAL** | **$559,768,573.00** |   |
+| Year | Month     | Total Disbursements     | Number of Transactions |
+|------|-----------|-------------------------|-------------------------|
+| 2023 | January   | $500.00                 | 1                       |
+| 2023 | March     | $500.00                 | 1                       |
+| 2023 | April     | $500.00                 | 1                       |
+| 2023 | June      | $500.00                 | 1                       |
+| 2023 | August    | $5,904,518.03           | 13                      |
+| 2023 | September | $3,036,793.66           | 7                       |
+| 2023 | October   | $7,779,687.70           | 18                      |
+| 2023 | November  | $3,485,430.26           | 11                      |
+| 2023 | December  | $963,483.90             | 15                      |
+| 2024 | January   | $1,900,802.28           | 13                      |
+| 2024 | February  | $1,704,500.17           | 24                      |
+| 2024 | March     | $21,869,760.03          | 36                      |
+| 2024 | April     | $14,946,629.50          | 57                      |
+| 2024 | May       | $21,114,663.08          | 43                      |
+| 2024 | June      | $48,723,787.73          | 47                      |
+| 2024 | July      | $57,340,977.55          | 58                      |
+| 2024 | August    | $137,362,994.24         | 60                      |
+| 2024 | September | $225,399,317.86         | 122                     |
+| 2024 | October   | $131,231,896.02         | 98                      |
+|**TOTAL**|**$682,767,242.01**| |
 
 ## Top 20 'MEDIA' Related Spend Recipients by Total Amount 
-| Recipient | Total Amount | Number of Disbursements |
-|-----------|--------------|------------------------|
-| MEDIA BUYING & ANALYTICS LLC | $186,543,632.22 | 31 |
-| DUPONT CIRCLE STRATEGIES LLC | $147,893,451.59 | 76 |
-| BULLY PULPIT INTERACTIVE LLC | $89,147,482.83 | 54 |
-| GAMBIT STRATEGIES LLC | $84,235,673.92 | 38 |
-| CONEXION INC | $27,948,247.67 | 29 |
-| TRUXTON CREATIVE LLC | $19,583,304.95 | 25 |
-| VIVA CREATIVE | $1,500,000.00 | 5 |
-| WIZARD STUDIOS NORTH, INC | $1,486,898.15 | 8 |
-| HARPO PRODUCTIONS INC | $1,000,000.00 | 2 |
-| RISEUP MEDIA & MARKETING SOLUTIONS | $4,896,649.47 | 2 |
-| VOX PRODUCTIONS, LLC | $967,709.00 | 5 |
-| MAGNUS PEARSON MEDIA | $947,583.68 | 42 |
-| BNY PRODUCTION, LLC | $1,794,233.99 | 13 |
-| ASSEMBLY HOUSE LLC | $743,180.96 | 12 |
-| MATTERSQUARE LLC | $333,333.34 | 2 |
-| AL MEDIA LLC | $964,268.25 | 4 |
-| POTOMAC WAVES LLC | $1,867,472.69 | 12 |
-| INDUSTRIAL STRENGTH STAGING | $592,977.91 | 8 |
-| N'DIGO STUDIO | $24,000.00 | 1 |
-| OPERATIVO, LLC | $121,532.85 | 2 |
-
-## Distribution of Disbursement Sizes
-| Disbursement Range | Number of Transactions | % of Total Transactions | Total Amount | % of Total Amount |
-|--------------|------------------------|------------------------|--------------|-------------------|
-| Under $10,000 | 147 | 32.59% | $521,234.89 | 0.09% |
-| $10,000 - $99,999 | 112 | 24.83% | $4,238,945.67 | 0.76% |
-| $100,000 - $499,999 | 89 | 19.73% | $21,567,892.44 | 3.85% |
-| $500,000 - $999,999 | 45 | 9.98% | $31,245,678.90 | 5.58% |
-| $1M - $4.99M | 41 | 9.09% | $89,678,345.10 | 16.02% |
-| $5M - $9.99M | 11 | 2.44% | $78,456,789.00 | 14.02% |
-| $10M+ | 6 | 1.33% | $334,059,687.00 | 59.68% |
-
-## Spending by Type of Media Service
-| Service Type | Total Amount | % of Total | Avg Transaction Size |
-|-------------|--------------|------------|---------------------|
-| MEDIA BUY | $428,567,892.33 | 76.56% | $2,345,678.90 |
-| MEDIA BUY & PRODUCTION | $89,678,345.67 | 16.02% | $789,456.78 |
-| MEDIA PRODUCTION | $35,678,901.00 | 6.37% | $234,567.89 |
-| MEDIA CONSULTING | $1,275,544.00 | 0.23% | $28,345.42 |
-
-
-## Basic Statistics for All Disbursements
-- Total Number of Disbursements: 451
-- Total Amount Disbursed: $559,768,573.00
-- Mean (Average) Disbursement: $1,241,171.78
-- Median Disbursement: $168,000.00
-- Standard Deviation: $3,247,892.45
-- Minimum Disbursement: $250.00 (DREW HESKETT MEDIA LLC)
-- Maximum Disbursement: $43,256,722.21 (MEDIA BUYING & ANALYTICS LLC)
-
-## Temporal Patterns
-- Average Daily Spend: $1,283,467.89
-- Highest Spending Day: September 16, 2024 ($43,256,722.21)
-- Most Transactions in One Day: 12 (October 15, 2024)
-- Average Transactions per Month: 30
-
-## Concentration Analysis
-- Top 3 vendors account for 75.6% of total spending
-- Top 10 vendors account for 91.2% of total spending
-- Herfindahl-Hirschman Index (HHI) for vendor concentration: 2,145 (indicating moderate to high concentration)
-
-## Trends
-1. Significant increase in both frequency and size of disbursements closer to election date
-2. Heavy concentration of spending among few major media firms
-3. DC-based firms dominate both in number of transactions and total amount
-4. Large disparity between mean and median payment sizes indicates skewed distribution
-5. Mix of large recurring payments to major firms and smaller one-time payments to specialized vendors
-6. Media buying dominates over production and consulting services
-7. Seasonal patterns show ramping up in late summer/early fall
-8. The top 5 recipients account for approximately 85% of total media spending
+| Recipient                                          | Total Amount          | Number of Disbursements |
+|----------------------------------------------------|-----------------------|--------------------------|
+| MEDIA BUYING & ANALYTICS LLC                       | $281,309,258.93      | 44                       |
+| GAMBIT STRATEGIES LLC                              | $122,337,175.10      | 55                       |
+| BULLY PULPIT INTERACTIVE LLC                       | $101,216,586.94      | 68                       |
+| DUPONT CIRCLE STRATEGIES LLC                       | $94,558,191.83       | 92                       |
+| CONEXION INC                                       | $35,343,900.49       | 37                       |
+| TRUXTON CREATIVE LLC                               | $28,851,189.18       | 33                       |
+| RISEUP MEDIA & MARKETING SOLUTIONS                 | $4,896,649.47        | 2                        |
+| POTOMAC WAVES LLC                                  | $2,854,770.69        | 18                       |
+| BNY PRODUCTION, LLC                                | $2,112,055.52        | 12                       |
+| MAGNUS PEARSON MEDIA                               | $1,123,803.78        | 43                       |
+| FOURTHWALL MEDIA INC                               | $1,000,000.02        | 7                        |
+| AL MEDIA LLC                                       | $964,268.25          | 4                        |
+| VIACOM INTERNATIONAL INC                           | $800,000.00          | 1                        |
+| ASSEMBLY HOUSE LLC                                 | $743,680.96          | 13                       |
+| INCITE STUDIO LLC                                  | $450,000.00          | 2                        |
+| NU VISION MEDIA, INC.                              | $350,000.00          | 1                        |
+| ROPE LINE MEDIA                                    | $349,852.47          | 16                       |
+| MATTERSQUARE LLC                                   | $333,333.34          | 2                        |
+| 360 DIGITAL STUDIOS, LLC                           | $329,943.49          | 2                        |
+| NATIONAL NEWSPAPER PUBLISHERS ASSOCIATION INC.     | $295,566.56          | 1                        |
 
 
 # Harris for President Media-Related Disbursements
-Federal Election Commission (FEC) Filings: August 2023 - October 2024
-
-All entries below are disbursements that include "MEDIA" in their description field from Harris for President's FEC filings. Amounts are displayed as reported to the FEC.
+The Harris campaign reported a total of **$682,767,242.01** in media-related expenditures as of the reporting period ending October 16, 2024. The data presented below includes all disbursements where "MEDIA" appears in the description field, based on Harris for President's FEC filings. Please note that all amounts are displayed exactly as reported to the FEC.
 
 | Spender | Recipient | State | Description | Disbursement Date | Amount |
 |---------|-----------|--------|-------------|-------------------|---------|
