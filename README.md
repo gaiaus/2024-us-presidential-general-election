@@ -39,7 +39,7 @@ Legacy media confronts an existential crisis: plummeting viewership, collapsing 
 * Biggest non-sports hits rarely exceed 10 million viewers
 * Only NFL games consistently draw 20+ million viewers
 
-This collapse in non-sports viewership makes these networks increasingly dependent on political advertising revenue to offset declining commercial advertising rates. In this context, campaign media buys represent an increasingly significant portion of network revenue. The Harris campaign's $668.3M media spending through mid-October constitutes a critical revenue stream during a period of systematic industry contraction. This creates a perverse incentive structure: when a single campaign becomes a dominant seasonal advertiser, outspending their opponent 5.4:1, economic pressures can compromise editorial independence. The scale of these media buys raises fundamental questions about the relationship between campaign spending and coverage objectivity.
+This collapse in non-sports viewership makes these networks increasingly dependent on political advertising revenue to offset declining commercial advertising rates. In this context, campaign media buys represent an increasingly significant portion of network revenue. The Harris campaign's $668.3M media spending through mid-October constitutes a critical revenue stream during a period of systematic industry contraction -- this creates a perverse incentive structure.
 
 **Legacy Media's Revenue Crisis**:
 * Falling ratings across major linear TV and cable TV networks signals declining audience reach
