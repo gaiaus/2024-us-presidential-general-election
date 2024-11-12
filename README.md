@@ -8,7 +8,7 @@ This repository provides cleaned data sets, including detailed media buy disburs
 
 - [`harris`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris)
 - [`trump`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump)
-- ['2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg)
+- [`2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg)
 - [`2008 obama`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2008_obama)
 
 ## I. Introduction
@@ -188,7 +188,7 @@ This repository provides cleaned data sets, including detailed media buy disburs
 
 - [`harris`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris)
 - [`trump`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump)
-- ['2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg)
+- [`2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg)
 - [`2008 obama`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2008_obama)
 
 **Citation Note**
