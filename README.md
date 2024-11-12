@@ -63,8 +63,8 @@ FEC filings reveal significant disparities in media buys with a 5.4:1 spending r
 - Trump Campaign: $202.1M (55% of $391.9M raised)
 
 **Daily Average Spend on Media Buys** (*July 15 to October 16*):
-  - Harris: $11.72M
-  - Trump: $2.17M
+- Harris: $11.72M
+- - Trump: $2.17M
 
 ### The Bloomberg-Harris Spending Paradox: Quantitative Failure
 The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M). Unlike Bloomberg who self-funded 99.92% of his campaign, Harris used individual donor contributions for more than half of this supersonic media buy spending spree.
