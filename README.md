@@ -109,6 +109,7 @@ The Harris campaign's FEC filings conflate distinct expenditure categories. Most
 - Studio and equipment expenses
 
 **Accounting and Oversight Issues**
+
 From both an accounting and oversight perspective, this conflation of disbursement purpose categories is problematic. It's equivalent to a company merging its media placement costs (buying airtime/space) with its content creation costs (production) into a single expense category. Standard accounting practices require these activities to be reported separately because they:
 
 - Serve different strategic purposes (distribution vs. creation)
@@ -124,7 +125,6 @@ The lack of accurate disbursement descriptions creates opportunities for:
 Despite its aforementioned failures, the Bloomberg campaign provided a model for better financial reporting for media buy disbursements through: 
 - Separating media buys from media/content production costs
 - Providing channel-specific expenditure data
-- Maintaining clear delineation between creative and placement/distribution costs
 
 ## IV. Celebrity Endorsements: The Paid Support Problem
 The combination of record-breaking campaign spending and vague expense categorization creates particular challenges in tracking celebrity endorsement costs. The Harris campaign's approach to reporting celebrity-related expenses appears designed to minimize transparency.
