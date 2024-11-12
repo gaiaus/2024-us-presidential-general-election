@@ -14,19 +14,18 @@ This repository provides cleaned data sets, including detailed media buy disburs
 ## I. Introduction
 ### Purpose
 
-This analysis originated from what I'll call the "Hinchcliffe Hypothesis" - a bizarre notion, and remarkable tell at the electoral poker table. 
+This analysis originated from what I'll call the "Hinchcliffe Hypothesis" - where the Harris campaign's aggressive attempt to compress public conversation around a comedian's joke resulted in their own poltical felting. 
 
-When the Harris campaign tried to leverage a comedian's joke into a campaign-ending moment, they went “all-in” on a stunning bluff: attempting to transform sanctimony and cultural censorship into political currency to clinch the electoral win. The mainstream media's coordinated compliance with this narrative represented the biggest coordinated check-raise in recent political history.
+When the Harris campaign tried to leverage a joke about Puerto Rico into a Trump "campaign-ending moment", they went “all-in” on a stunning bluff: attempting to weaponize sanctimony and cultural censorship for manufactured political currency. The mainstream media's coordinated compliance in playing with this narrative represented the biggest coordinated check-raise in the politicization of "mass media". 
 
-But this hand revealed more than just campaign strategy - it exposed the ultimate ante. When the Democratic establishment decides to induce an anxiety of laughter, they're not just policing speech; they're trying to control the very mechanism of thought. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
+But this hand revealed more than just campaign strategy - it exposed the ultimate ante. When the Democratic establishment decided to induce an anxiety of laughter, they're not just policing speech; they're aiming to control the mechanics of our thoughts. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
 
-The media's willingness to frame a working comedian's misplaced joke as evidence of "fascism" wasn't just bad faith - it was a tell that demands closer scrutiny of the underlying financial incentives at play. 
+The media's willingness to frame a working comedian's misplaced joke as evidence of "fascism" wasn't just bad faith - it was a tell that demanded closer scrutiny of the underlying financial incentives at play. 
 
 When they come for your speech, they come for your laughter. 
 “Kill Tony.” 
 
 ### Background
-
 Legacy media confronts an existential crisis: plummeting viewership, collapsing advertising rates, and evaporating revenue streams. Public trust in punditry has eroded dramatically, accelerating the audience exodus.  Linear TV networks (NBC, CBS, ABC) and cable TV faces unprecedented decline in non-sports viewership. NFL programming dominates - accounting for 93 of the 100 most-watched broadcasts in 2023 - traditional linear programming struggles to maintain audience share. Most primetime shows now draw only 3-4 million viewers, a mere fraction of their historical audiences. 
 
 **1990s Peak**:
@@ -69,7 +68,6 @@ FEC filings reveal significant disparities in media buys with a 5.4:1 spending r
   - Trump: $2.17M
 
 ### The Bloomberg-Harris Spending Paradox: Quantitative Failure
-
 The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M). Unlike Bloomberg who self-funded 99.92% of his campaign, Harris used individual donor contributions for more than half of this supersonic media buy spending spree."
 This makes the scale of replicating Bloomberg's failed media saturation strategy even more striking - nearly 20% higher than what was already considered a singularly extreme outlier of historic campaign spending.
 
