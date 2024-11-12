@@ -16,7 +16,7 @@ This repository provides cleaned data sets, including detailed media buy disburs
 
 This analysis originated from what I'll call the "Hinchcliffe Hypothesis" - where the Harris campaign's aggressive attempt to compress public conversation around a comedian's joke resulted in their own poltical felting. 
 
-When the Harris campaign tried to leverage a joke about Puerto Rico into a Trump "campaign-ending moment", they went “all-in” on a stunning bluff: attempting to weaponize sanctimony and cultural censorship for manufactured political currency. The mainstream media's coordinated compliance in playing with this narrative represented the biggest coordinated check-raise in the politicization of "mass media". 
+When the Harris campaign tried to leverage a joke about Puerto Rico into a Trump "campaign-ending moment", they went “all-in” on a stunning bluff: attempting to weaponize sanctimony and cultural censorship for manufactured political currency. The mainstream media's compliance in playing with this narrative represented a coordinated check-raise in the politicization of "mass media". 
 
 But this hand revealed more than just campaign strategy - it exposed the ultimate ante. When the Democratic establishment decided to induce an anxiety of laughter, they're not just policing speech; they're aiming to control *how* we think. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
 
