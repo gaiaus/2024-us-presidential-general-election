@@ -1,7 +1,7 @@
 # Harris for President -- Media Buy Disbursements 
 Based on Federal Election Commission (FEC) filings: August 2023 - October 2024. 
 
-**Total Spend on Media Buys: $571,031,263.42** 
+**Total Spend on Media Buys: $$668,335,586.26** 
 
 All entries below are disbursements that include "MEDIA BUY" in their description field from Harris for President's FEC filings. 
 Amounts are displayed as reported to the FEC.
@@ -322,6 +322,6 @@ Amounts are displayed as reported to the FEC.
 | HARRIS FOR PRESIDENT | CONEXION INC | DC | MEDIA BUY AND PRODUCTION | 08/22/2023 | $275,000.00 |
 | HARRIS FOR PRESIDENT | MEDIA BUYING & ANALYTICS LLC | GA | MEDIA BUY | 08/21/2023 | $1,697,110.00 |
 | HARRIS FOR PRESIDENT | GAMBIT STRATEGIES LLC | DC | MEDIA BUY | 08/21/2023 | $1,024,357.97 |
-
+|**TOTAL**|**$668,335,586.26| | |
 
 
