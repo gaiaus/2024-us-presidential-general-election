@@ -8,7 +8,7 @@ Similarly, the Harris campaign labels these expenditures as "media buys," but bo
 
 The costs associated with placed media or media buys fluctuate based on factors such as audience size, seasonality, and competition for ad space. Advertisers analyze metrics like Nielsen Ratings to assess the reach and effectiveness of specific media placements, allowing for data-driven decisions on ad spend allocation.
 
-The Trump campaign reported a total of **$217,752,218.84 in expenditures for placed media**, recorded across 44 disbursement entries. 
+The Trump campaign reported a total of **$216,530,797.82** in expenditures for placed media**, recorded across 44 disbursement entries. 
 
 Each entry below reflects a disbursement labeled with "PLACED MEDIA" in the description field, as documented in Trump for President's FEC filings. All amounts are displayed as reported to the FEC.
 
@@ -60,5 +60,5 @@ Each entry below reflects a disbursement labeled with "PLACED MEDIA" in the desc
 | 360 TOUCH LLC | PLACED MEDIA | 5,000.00 | 2023-05-10 00:00:00 |
 | 360 TOUCH LLC | PLACED MEDIA | 175,000.00 | 2023-04-25 00:00:00 |
 | 360 TOUCH LLC | PLACED MEDIA | 553,279.95 | 2023-04-25 00:00:00 |
-| **TOTAL**| **$217,752,218.84** |   |
+| **TOTAL**| **$216,530,797.82** |   |
 
