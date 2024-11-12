@@ -39,7 +39,7 @@ Legacy media confronts an existential crisis: plummeting viewership, collapsing 
 * Biggest non-sports hits rarely exceed 10 million viewers
 * Only NFL games consistently draw 20+ million viewers
 
-This collapse in non-sports viewership makes these networks increasingly dependent on political advertising revenue to offset declining commercial advertising rates. In this context, campaign media buys represent an increasingly significant portion of network revenue. The Harris campaign's $668.3M in media spending through mid-October constitutes a critical revenue stream during a period of systematic industry contraction. This creates a perverse incentive structure: when a single campaign becomes a dominant seasonal advertiser, outspending their opponent 5.4:1, economic pressures can compromise editorial independence. The scale of these media buys raises fundamental questions about the relationship between campaign spending and coverage objectivity.
+This collapse in non-sports viewership makes these networks increasingly dependent on political advertising revenue to offset declining commercial advertising rates. In this context, campaign media buys represent an increasingly significant portion of network revenue. The Harris campaign's $668.3M media spending through mid-October constitutes a critical revenue stream during a period of systematic industry contraction. This creates a perverse incentive structure: when a single campaign becomes a dominant seasonal advertiser, outspending their opponent 5.4:1, economic pressures can compromise editorial independence. The scale of these media buys raises fundamental questions about the relationship between campaign spending and coverage objectivity.
 
 **Legacy Media's Revenue Crisis**:
 * Falling ratings across major linear TV and cable TV networks signals declining audience reach
@@ -49,9 +49,9 @@ This collapse in non-sports viewership makes these networks increasingly depende
 
 **Campaign Spending as Revenue Lifeline**:
 * Harris campaign's $668.3M media spend through October 16 represents increasingly critical revenue for struggling networks
-* At 5.4:1 spending ratio vs Trump, Harris campaign becomes dominant advertising customer
-* For networks facing revenue pressure, this creates unprecedented dependency
-* This dependency raises fundamental questions about editorial independence and coverage objectivity
+* Harris campaign is a dominant advertising customer
+* For networks facing revenue pressure, this creates substanial dependency
+* This increasing dependency raises fundamental questions about editorial independence and coverage objectivity
 
 ## II. Analysis of Campaign Spending on “Media Buys”
 
@@ -62,14 +62,15 @@ FEC filings reveal significant disparities in media buys with a 5.4:1 spending r
 - Harris Campaign: $668.3M (67% of $997.9M raised)
 - Trump Campaign: $202.1M (55% of $391.9M raised)
 
-**Daily Average Spend on Media Buys**:
-*July 15 to October 16*
+**Daily Average Spend on Media Buys** (*July 15 to October 16*):
   - Harris: $11.72M
   - Trump: $2.17M
 
 ### The Bloomberg-Harris Spending Paradox: Quantitative Failure
-The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M). Unlike Bloomberg who self-funded 99.92% of his campaign, Harris used individual donor contributions for more than half of this supersonic media buy spending spree."
+The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M). Unlike Bloomberg who self-funded 99.92% of his campaign, Harris used individual donor contributions for more than half of this supersonic media buy spending spree.
 This makes the scale of replicating Bloomberg's failed media saturation strategy even more striking - nearly 20% higher than what was already considered a singularly extreme outlier of historic campaign spending.
+
+*Note*: Bloomberg's media buys, made during less expensive ramp up of Super Tuesday primary season rates, still provides a useful benchmark in understading the effectiveness of media buys. Even adjusting for this seasonal price differential, the scale of Harris campaign's spending warrants examination because of the nature of her campaing's funding sources (*below*).
 
 **Bloomberg 2020 Primary Campaign** (Baseline Failure):
 - Total media buy spend: $641.9M
