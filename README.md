@@ -2,7 +2,7 @@
 # Getting Trumped: When Your Media Buy P-Value is Less Significant Than Your Opponent’s Meme Value
 An Examination of Media Buying Trends in the 2024 US Presidential General Election
 
-*Note: This analysis uses current FEC filings which show disbursements up to October 16, 2024 only. We have no visibility into campaign spending after this date, which historically includes the heaviest spending period of presidential campaigns. Additional filings will be needed to understand the full scope of campaign spending through election day*.
+*Note: This analysis uses current FEC filings which show disbursements up to October 16, 2024 only. We have no visibility into campaign spending after this date, which historically includes the heaviest spending period of presidential campaigns. Additional filings will be needed to understand the full scope of media buy campaign spending through election day*.
 
 This repository provides cleaned data sets, including detailed media buy disbursement records for: 
 
