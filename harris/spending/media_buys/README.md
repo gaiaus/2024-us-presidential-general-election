@@ -1,7 +1,7 @@
 # Harris for President -- Media Buy Disbursements 
 Based on Federal Election Commission (FEC) filings: August 2023 - October 2024. 
 
-**Total Spend on Media Buys: $$668,335,586.26** 
+**Total Spend on Media Buys: $668,335,586.26** 
 
 All entries below are disbursements that include "MEDIA BUY" in their description field from Harris for President's FEC filings. 
 Amounts are displayed as reported to the FEC.
