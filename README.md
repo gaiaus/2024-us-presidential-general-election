@@ -67,7 +67,7 @@ FEC filings reveal significant disparities in media buys with a 5.4:1 spending r
 - Trump: $2.17M
 
 ### The Bloomberg-Harris Spending Paradox: Quantitative Failure
-The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M). Unlike Bloomberg who self-funded 99.92% of his campaign, Harris used individual donor contributions for more than half of this supersonic media buy spending spree.
+The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M). Unlike Bloomberg who self-funded 99.92% of his campaign, Harris used funds sources from individual donor contributions for more than half of this supersonic spending spree.
 This makes the scale of replicating Bloomberg's failed media saturation strategy even more striking - nearly 20% higher than what was already considered a singularly extreme outlier of historic campaign spending.
 
 *Note*: Bloomberg's media buys, made during less expensive ramp up of Super Tuesday primary season rates, still provides a useful benchmark in understading the effectiveness of media buys. Even adjusting for this seasonal price differential, the scale of Harris campaign's spending warrants examination because of the nature of her campaing's funding sources (*below*).
@@ -88,7 +88,7 @@ This makes the scale of replicating Bloomberg's failed media saturation strategy
 
 What makes Harris’ spending particularly noteworthy is the willful ignorance of recent historical and empirical data, demonstrating the limitations of a media buy dump. Bloomberg’s $641.9M investment in media buys yielded zero delegates. 
 
-While Bloomberg's uniquely degenerate political gambit was funded with $1.089B of his own capital ($1.089B self-funded), the Harris campaign used $504.7M in individual contributions from "mainstreet donors" - which represents a compound failure of strategy and possibly, campaign finance ethics, and fiduciary responsibility. 
+While Bloomberg's uniquely degenerate political gambit was funded with $1.089B of his own money ($1.089B self-funded), the Harris campaign used $504.7M in individual contributions from "mainstreet donors" - which represents a compound failure of strategy and possibly, campaign finance ethics, and fiduciary responsibility. 
 
 ## III. Transparency & Reporting Issues
 ### Critical Deficiencies in Current FEC Reporting Standards
