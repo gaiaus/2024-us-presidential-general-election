@@ -126,7 +126,7 @@ The lack of accurate disbursement descriptions creates opportunities for:
 
 Despite its aforementioned failures, the Bloomberg campaign provided a model for better financial reporting for media buy disbursements through: 
 - Separating media buys from media/content production costs
-- Providing channel-specific expenditure data
+- Providing channel-specific information with respect to media buy disbursements in FEC filings 
 
 ## IV. Celebrity Endorsements: The Paid Support Problem
 The combination of record-breaking campaign spending and vague expense categorization creates particular challenges in tracking celebrity endorsement costs. The Harris campaign's approach to reporting celebrity-related expenses appears designed to minimize transparency.
