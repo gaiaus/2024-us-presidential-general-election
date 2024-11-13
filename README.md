@@ -22,8 +22,6 @@ But this hand revealed more than just gumption - it exposed the ultimate ante. W
 
 The media's willingness to frame a working comedian's misplaced joke as evidence of "fascism" wasn't just bad faith - it was a tell that demanded closer scrutiny of the underlying financial incentives at play. 
 
-This is a data based story about how campaigns can influence networks with money, and how media buys can turn our "news" into show business. 
-
 ### Background
 Legacy media confronts an existential crisis: plummeting viewership, collapsing advertising rates, and evaporating revenue streams. Public trust in punditry has eroded dramatically, accelerating the audience exodus.  Linear TV networks (NBC, CBS, ABC) and cable TV faces unprecedented decline in non-sports viewership. NFL programming dominates - accounting for 93 of the 100 most-watched broadcasts in 2023 - traditional linear programming struggles to maintain audience share. Most primetime shows now draw only 3-4 million viewers, a mere fraction of their historical audiences. 
 
