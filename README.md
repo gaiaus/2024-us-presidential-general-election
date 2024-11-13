@@ -12,20 +12,25 @@ This repository contains records of media buys for the following presidential ca
 - [`2008 obama`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2008_obama)
 
 ## I. Introduction
-They tried to "kill Tony."
+*They tried to "kill Tony."*
 
-This analysis originated from what I'll call the "Hinchcliffe Hypothesis" - or the mainstream media's willingness to frame a working comedian's misplaced joke as evidence of "fascism" wasn't just bad faith, it was a tell that demanded closer scrutiny of the underlying financial incentives at play. 
+This analysis originated from disbelief with respect to what I'll call the "Hinchcliffe Hypothesis." 
 
-When the Harris campaign attempted to transform a joke about landfills in Puerto Rico into a campaign-defining scandal, they went all-in on  a tactical bluff - it exemplified their broader strategy of leveraging cultural censorship for political gain. The result -- their political felting. 
+When the Harris campaign attempted to transform a joke about landfills in Puerto Rico into a campaign-defining scandal, they went all-in on a tactical bluff - it exemplified their broader strategy of leveraging cultural censorship for political gain. The result -- their political felting. 
 
-The mainstream media's coordinated amplification of this *narrative* while unsurprising, still warrants closer examination. 
-Beyond the well-documented questions of ideological bias in our legacy media infrastructures, the financial relationship between campaigns and traditional media channels is still interesting when one looks at the numbers. When a single campaign becomes a fledgling network’s dominant advertiser during a period of systematic revenue decline, the relationship between media buy scale and coverage patterns transcends issues of cognitive bias.
+The mainstream media's willingness to frame a working comedian's misplaced joke as evidence of "racism" wasn't just bad faith, it was a tell that demanded closer scrutiny of the underlying financial incentives at play. 
 
-The significance of this incident extends beyond campaign spending and trad media economics. Comedy serves a vital function in democratic discourse - it identifies and exposes patterns of societal absurdity.  
+Beyond the well-documented questions of ideological bias in our legacy media infrastructures, the financial relationship between campaigns and traditional media channels are somewhat underexplored. When a single campaign becomes a fledgling network’s dominant advertiser during a period of systematic ratings and revenue decline, the relationship between media buy and coverage patterns transcends issues of cognitive bias.
+
+The significance of this incident extends beyond campaign spending and trad media economics, however. 
+
+Comedy serves a vital function in democratic discourse - it identifies and exposes patterns of societal absurdity.  
 
 Humor is our cultural debugging tool. 
 
-When a campaign invests unprecedented financial and social resources in suppressing humor itself, it suggests an attempt to control not just what we say, but how we process information. It is telling the self proclaimed party of “joy” came for our laughter. 
+When a campaign invests unprecedented financial and political resources in suppressing humor itself, it suggests an attempt to control not just what we say, but how we process information. The self proclaimed party of “joy” are killjoys of our civil liberties. 
+
+They came for our laughter. 
 
 
 ### Background
