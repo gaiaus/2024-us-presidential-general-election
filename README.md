@@ -4,9 +4,8 @@ An Examination of Media Buying Trends in the 2024 US Presidential General Electi
 
 *Note: This analysis uses current FEC filings which show disbursements up to October 16, 2024 only. We have no visibility into campaign spending after this date, which historically includes the heaviest spending period of presidential campaigns. Additional filings will be needed to understand the full scope of media buy campaign spending through election day*.
 
-This repository provides cleaned data sets, including detailed media buy disbursement records for: 
-
-- [`harris`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris)
+This repository contains records of media buys for the following presidential campaigns: 
+ [`harris`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris)
 - [`trump`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump)
 - [`2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg)
 - [`2008 obama`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2008_obama)
