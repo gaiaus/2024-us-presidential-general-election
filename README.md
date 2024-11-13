@@ -8,7 +8,7 @@ This repository contains records of media buys for the following presidential ca
 
 -  [`harris`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris)
 - [`trump`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump)
-- [`2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg)
+- [`2020_bloomberg`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2020_bloomberg) (Democratic Primary) 
 - [`2008 obama`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/historic/2008_obama)
 
 ## I. Introduction
