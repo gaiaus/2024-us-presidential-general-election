@@ -204,3 +204,30 @@ Comparing Harris campaign media spending with historical precedents (like Obama 
 - Different competitive media and political landscapes
 
 While precise spending comparisons are difficult without detailed cost basis data, the Obama for America disbursement records are included in this repository as his campaign provided more descriptive disbursement details. The Harris campaign's ambiguous disbursement categorizations represent a significant regression in campaign finance reporting to the FEC, even within their own party's reporting standards.
+
+# Repository Structure
+
+## Candidate Data Organization
+
+### Trump Campaign `/trump/spending/`
+media_related/      # All media-related disbursements
+placed_media/       # All disbursements labeled as "placed media" in FEC filings
+source_data/        # Raw data files
+
+### Trump Campaign Analysis Files
+- `by_spending_category.MD`: Spending analysis by conventional campaign spend categories
+- `top_500_recipients.MD`: Largest disbursement recipients
+
+### Harris Campaign `/harris/spending/`
+event_production/   # Event production related expenses
+media_buys/         # All disbursements labeled as "media buy" in FEC filings 
+media_related/      # All media-related disbursements
+source_data/        # Raw data files
+
+### Harris Campaign Analysis Files
+- `by_disbursement_description.MD`: Expenses categorized by description
+- `by_spending_category.MD`: Spending analysis by campaign categories
+- `top_500_recipients.MD`: Largest disbursement recipients
+- `paid_media.MD`: Record of all paid media disbursements
+
+Note: Each candidate folder contains a README with financial summaries for their principal presidential committees. All data sourced from FEC filings through October 16, 2024.
