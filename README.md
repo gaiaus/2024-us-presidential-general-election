@@ -210,24 +210,39 @@ While precise spending comparisons are difficult without detailed cost basis dat
 ## Candidate Data Organization
 
 ### Trump Campaign `/trump/spending/`
-media_related/      # All media-related disbursements
-placed_media/       # All disbursements labeled as "placed media" in FEC filings
-source_data/        # Raw data files
+[`media_related`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump/spending/media_related)      
+*All media-related disbursements*
+
+[`placed_media`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump/spending/placed_media)      
+*All disbursements labeled as "placed media" in FEC filings*
+
+[`source_data`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/trump/spending/source_data)        
+*Raw data files*
 
 ### Trump Campaign Analysis Files
-- `by_spending_category.MD`: Spending analysis by conventional campaign spend categories
-- `top_500_recipients.MD`: Largest disbursement recipients
+- [by_spending_category](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/trump/spending/by_spending_category.MD): Spending analysis by conventional campaign spend categories
+- [top_500_recipients](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/trump/spending/top_500_recipients.MD): Largest disbursement recipients
 
 ### Harris Campaign `/harris/spending/`
-event_production/   # Event production related expenses
-media_buys/         # All disbursements labeled as "media buy" in FEC filings 
-media_related/      # All media-related disbursements
-source_data/        # Raw data files
+[`event_production`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/event_production)   
+*All disbursements labeled as "event production" in FEC filings
+
+[`media_buys`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/media_buys)         
+*All disbursements labeled as "media buy" in FEC filings* 
+
+[`media_related`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/media_related)      
+*All media-related disbursements*
+
+[`paid_media`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/paid_media)
+*All disbursements labeled as "paid media" in FEC filings
+
+[`source_data`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/source_data)       
+*Raw data files*
 
 ### Harris Campaign Analysis Files
-- `by_disbursement_description.MD`: Expenses categorized by description
-- `by_spending_category.MD`: Spending analysis by campaign categories
-- `top_500_recipients.MD`: Largest disbursement recipients
-- `paid_media.MD`: Record of all paid media disbursements
+- [by_disbursement_description](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_disbursement_description.MD): Expenses categorized by description
+- [by_spending_category](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/by_spending_category.MD): Spending analysis by campaign categories
+- [top_500_recipients](https://github.com/gaiaus/2024-us-presidential-general-election/blob/main/harris/spending/top_500_recipients.MD): Largest disbursement recipients
+
 
 Note: Each candidate folder contains a README with financial summaries for their principal presidential committees. All data sourced from FEC filings through October 16, 2024.
