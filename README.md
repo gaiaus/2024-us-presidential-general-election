@@ -21,7 +21,7 @@ When the Harris campaign attempted to transform a joke about landfills in Puerto
 The mainstream media's coordinated amplification of this *narrative* while unsurprising, still warrants closer examination. 
 Beyond the well-documented questions of ideological bias in our legacy media infrastructures, the financial relationship between campaigns and traditional media channels is still interesting when one looks at the numbers. When a single campaign becomes a fledgling network’s dominant advertiser during a period of systematic revenue decline, the relationship between media buy scale and coverage patterns transcends issues of cognitive bias.
 
-The significance of this incident and larger media buying pattern extends beyond campaign spending and trad media economics. Comedy serves a vital function in democratic discourse - it identifies and exposes patterns of societal absurdity.  
+The significance of this incident extends beyond campaign spending and trad media economics. Comedy serves a vital function in democratic discourse - it identifies and exposes patterns of societal absurdity.  
 
 Humor is our cultural debugging tool. 
 
