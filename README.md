@@ -225,7 +225,7 @@ While precise spending comparisons are difficult without detailed cost basis dat
 
 ### Harris Campaign `/harris/spending/`
 [`event_production`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/event_production)   
-*All disbursements labeled as "event production" in FEC filings
+*All disbursements labeled as "event production" in FEC filings*
 
 [`media_buys`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/media_buys)         
 *All disbursements labeled as "media buy" in FEC filings* 
