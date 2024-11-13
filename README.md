@@ -236,7 +236,7 @@ While precise spending comparisons are difficult without detailed cost basis dat
 [`paid_media`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/paid_media)
 *All disbursements labeled as "paid media" in FEC filings
 
-[`source_data`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/source_data)       
+[`source_data`](https://github.com/gaiaus/2024-us-presidential-general-election/tree/main/harris/spending/source_data) 
 *Raw data files*
 
 ### Harris Campaign Analysis Files
