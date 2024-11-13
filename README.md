@@ -16,14 +16,13 @@ This repository provides cleaned data sets, including detailed media buy disburs
 
 This analysis originated from what I'll call the "Hinchcliffe Hypothesis" - where the Harris campaign's aggressive attempt to compress public conversation around a comedian's joke resulted in their own poltical felting. 
 
-When the Harris campaign tried to leverage a joke about Puerto Rico into a Trump "campaign-ending moment", they went “all-in” on a stunning bluff: attempting to weaponize sanctimony and cultural censorship for manufactured political currency. The mainstream media's compliance in playing with this narrative represented a coordinated check-raise in the politicization of "mass media". 
+When the Harris campaign tried to leverage a joke about Puerto Rico into a Trump "campaign-ending moment", they went “all-in” on a stunning bluff: attempting to weaponize sanctimony and cultural censorship for manufactured political currency. The party of "joy" tried to "kill Tony" for manufactured edge in news cycles; and the mainstream media's compliance in playing with this *narrative* represented a coordinated check-raise in the politicization of "mass media."
 
-But this hand revealed more than just campaign strategy - it exposed the ultimate ante. When the Democratic establishment decided to induce an anxiety of laughter, they're not just policing speech; they're aiming to control *how* we think. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
+But this hand revealed more than just gumption - it exposed the ultimate ante. When the Democratic establishment decided to induce an anxiety of laughter, they're not just policing speech; they're aiming to control *how* we think. In America's cultural marketplace of ideas, comedy isn't just entertainment - it's a critical innovation engine, identifying patterns of societal absurdities in real-time. It’s our cultural debugging tool. 
 
 The media's willingness to frame a working comedian's misplaced joke as evidence of "fascism" wasn't just bad faith - it was a tell that demanded closer scrutiny of the underlying financial incentives at play. 
 
-When they come for your speech, they come for your laughter. 
-“Kill Tony.” 
+This is a data based story about how campaigns can influence networks with money, and how media buys can turn our "news" into show business. 
 
 ### Background
 Legacy media confronts an existential crisis: plummeting viewership, collapsing advertising rates, and evaporating revenue streams. Public trust in punditry has eroded dramatically, accelerating the audience exodus.  Linear TV networks (NBC, CBS, ABC) and cable TV faces unprecedented decline in non-sports viewership. NFL programming dominates - accounting for 93 of the 100 most-watched broadcasts in 2023 - traditional linear programming struggles to maintain audience share. Most primetime shows now draw only 3-4 million viewers, a mere fraction of their historical audiences. 
