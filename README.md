@@ -74,8 +74,8 @@ FEC filings reveal significant disparities in media buys with a 5.4:1 spending r
 - Harris: $11.72M
 - Trump: $2.17M
 
-### The Bloomberg-Harris Spending Paradox: Quantitative Failure
-The Harris campaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M), which is considered to be an *extreme* outlier in campaign spending. However,unlike Bloomberg who self-funded 99.92% of his campaign, Harris spent funds raised from individual donor contributions for her supersonic spending spree.
+### The Bloomberg-Harris Spending Paradox
+The Harris camoaign repeated a known failed strategy at scale. By October 16th, her campaign had exceeded Mike Bloomberg's legendary 2020 primary media buy spend by 4.1% ($668.3M vs $641.9M). Assuming an *estimated* additional $100M in media buys between October 16 and November 5, the Harris campaign likely exceeds Bloomberg's spending by 19.7% ($768.3M vs $641.9M), which is considered to be an *extreme* outlier in campaign spending. However,unlike Bloomberg who self-funded 99.92% of his campaign, Harris spent funds raised from individual donor contributions for her supersonic spending spree.
 
 *Note*: Even adjusting for the seasonal price differential between Super Tuesday and the general election, the scale of Harris campaign's spending warrants attention. If Harris is spending at levels comparable to Bloomberg, but during a period when TV ads cost more (general election vs. primary), she's effectively achieving less media exposure per dollar than Bloomberg did. This suggests an even *more* aggressive spending pattern than Bloomberg's already notable spree, raising questions about resource allocation and strategy. The key isn't just that media is more expensive – it's that Harris is willing to spend heavily despite getting less bang for each buck. 
 
