@@ -1,4 +1,4 @@
-op# Independent Expenditures - For Harris
+# Independent Expenditures - For Harris
 *Note*: Independent expenditures are made without coordination with the candidate's official campaign committee.
 
 Total Independent Expenditure Support: **$4,787,705,906.66**
