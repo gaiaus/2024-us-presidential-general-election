@@ -32,7 +32,7 @@ According to FEC records, [Food and Water Action's financial profile](https://ww
 - TOLOZA SERNA, JULIANA: NEW YORK, NY
 
 ## Independent Expenditures for Harris -- Reporting Period: July 16, 2024 - November 5, 2024
-The following table details independent expenditures supporting Kamala Harris's presidential campaign from July 16 - November 5, 2024. Each entry represents spending over $100,000 by outside groups such as PACs and advocacy organizations, separate from the official Harris campaign. All expenditures were reported to the Federal Election Commission (FEC) and total $4.79 billion during this period. The table is organized by spender, type of support, description of expenditure, payee, date, and amount. These independent expenditures represent communications explicitly advocating for Harris's election, made without coordination with her campaign team.
+The following table details independent expenditures supporting Kamala Harris's presidential campaign from July 16 - November 5, 2024. Each entry represents spending over $100,000 by outside groups such as PACs and advocacy organizations, separate from the official Harris campaign. All expenditures were reported to the FEC and total $4.79 billion during this period. The table is organized by spender, type of support, description of expenditure, payee, date, and amount. These independent expenditures represent communications explicitly advocating for Harris's election, made without coordination with her campaign team.
 
 | Spender | Support/Oppose | Candidate | Description | Payee | Expenditure Date | Amount |
 |---------|----------------|-----------|-------------|-------|------------------|---------|
