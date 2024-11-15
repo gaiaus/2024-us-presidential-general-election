@@ -4,23 +4,18 @@
 Total Independent Expenditure Support: **$4,787,705,906.66**
 
 ## Summary
-Based on the YTD (Year-to-Date) totals, here are the Top 10 biggest spenders in SUPPORT of HARRIS:
+Based on the YTD (Year-to-Date) totals, here are the Top 5 biggest spenders in SUPPORT of HARRIS:
 
-1. FOOD AND WATER ACTION: $1,026,537,161.15
-2. FF PAC: $497,555,574.27
-3. BLACKPAC: $20,201,055.87
-4. YOUR COMMUNITY PAC: $12,717,311.44
-5. LCV VICTORY FUND: $12,559,169.30
-6. SOMOS PAC: $11,346,491.28
-7. ONE FOR ALL COMMITTEE: $10,313,136.44
-8. FOR OUR FUTURE: $7,804,936.92
-9. CFFE PAC: $7,311,457.50
-10. PROGRESSIVE TURNOUT PROJECT: $2,627,521.57
+1. [FOOD AND WATER ACTION, C90019357](https://www.fec.gov/data/committee/C90019357/): $1,026,537,161.15
+2. [FF PAC, C00669259](https://www.fec.gov/data/committee/C00669259/): $497,555,574.27
+3. [BLACKPAC, C00609388](https://www.fec.gov/data/committee/C00609388/): $20,201,055.87
+4. [YOUR COMMUNITY PAC, C00886614](https://www.fec.gov/data/committee/C00886614/): $12,717,311.44
+5. [LCV VICTORY FUND, C00486845](https://www.fec.gov/data/committee/C00486845/): $12,559,169.30
 
 ### FOOD AND WATER ACTION (FEC ID: C90019357)
 On Election Day (November 5, 2024), Food & Water Action made a series of remarkable expenditures for "voter outreach" that raise significant questions about the true nature of their scale and structure. The organization, which is the political advocacy arm of the nonprofit [Food & Water Watch](https://www.foodandwaterwatch.org/), reported **NINE** identical payments of $114,056,874.00 each - totaling over $1.2 billion in a single day. What makes these expenditures particularly noteworthy is that they were paid to nine different individuals rather than to traditional vendors or service providers. To put this in perspective, each individual payment ($114 million+) exceeds what most Political Action Committees (PACs) spend during an entire election cycle. If accurate, these expenditures would represent one of the largest single-day PAC spending efforts in U.S. history, with the unusual pattern of massive identical payments made directly to individuals for "voter outreach" activities.
 
-According to FEC records, Food and Water Action's financial profile raises serious questions about their billion-dollar deployment for voter outreach. Their third-quarter financial disclosure (July 1 - September 30, 2024) shows the organization received just $60.00 in individual contributions and made only $35,080.12 in independent expenditures. This modest financial activity stands in strong contrast to their reported Election Day spending of over $1.2 billion. The dramatic disparity between their documented financial capacity and their reported November 5 expenditures warrants further scrutiny.
+According to FEC records, [Food and Water Action's financial profile](https://www.fec.gov/data/committee/C90019357/) raises serious questions about their billion-dollar deployment for voter outreach. Their third-quarter financial disclosure (July 1 - September 30, 2024) shows the organization received just $60.00 in individual contributions and made only $35,080.12 in independent expenditures. This modest financial activity stands in strong contrast to their reported Election Day spending of over $1.2 billion. The dramatic disparity between their documented financial capacity and their reported November 5 expenditures warrants further scrutiny.
 
 **Recipients of $114M and their Locations**:
 - MEJIA, MARICARMEN: NEWBURGH, NY
