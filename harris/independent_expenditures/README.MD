@@ -1,4 +1,4 @@
-# Independent Expenditures - For Harris
+op# Independent Expenditures - For Harris
 *Note*: Independent expenditures are made without coordination with the candidate's official campaign committee.
 
 Total Independent Expenditure Support: **$4,787,705,906.66**
@@ -18,7 +18,7 @@ On Election Day (November 5, 2024), Food & Water Action disbursed $1.2 billion f
 Food & Water Action appears to be the political advocacy arm of the nonprofit [Food & Water Watch](https://www.foodandwaterwatch.org/).  
 Their election day expenditures are particularly odd given that their disbursements were paid to nine individuals rather than traditional vendors or service providers. Each individual was paid the exact same amount -- $114,056,874.00. An amount that exceeds what most super Political Action Committees (PACs) spend during an entire election cycle. If accurate, these expenditures may represent the largest single-day independent spending effort in U.S. campaign history.
 
-According to FEC records, [Food and Water Action's financial profile](https://www.fec.gov/data/committee/C90019357/) raises serious questions about their billion-dollar deployment for voter outreach. Their third-quarter financial disclosure (July 1 - September 30, 2024) shows the organization received just $60.00 in individual contributions and made only $35,080.12 in independent expenditures. This modest financial activity stands in strong contrast to their reported Election Day. The dramatic disparity between their documented financial capacity and their reported November 5 expenditures warrants scrutiny.
+According to FEC records, [Food and Water Action's financial profile](https://www.fec.gov/data/committee/C90019357/) raises serious questions about their billion-dollar deployment for voter outreach. Their third-quarter financial disclosure (July 1 - September 30, 2024) shows the organization received just $60.00 in individual contributions and made only $35,080.12 in independent expenditures. This modest financial activity stands in strong contrast to their reported spending on Election Day. The dramatic disparity between their documented financial capacity and their reported November 5 expenditures warrants scrutiny.
 
 [Food and Water X/Twitter](https://x.com/fwaction?t=P7olTkueDnTLx0ofLZ6-bg&s=09)
 
